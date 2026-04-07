@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "0f0b270e6b93e550",
+        "id": "9ca2e1bf78a63b33",
         "type": "tabs",
         "children": [
           {
-            "id": "409548e6eed4eaa2",
+            "id": "70149ff1a0f9785c",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -180,20 +180,16 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8919143af996697d",
+  "active": "70149ff1a0f9785c",
   "lastOpenFiles": [
-    "Rashka.md",
-    "Sesh's/Session 4.md",
-    "Locations/Auflen Forest.md",
-    "PCs/Brodie Uabhar.md",
-    "Locations/Valtherian/Camp Oakenfield.md",
-    "Sesh's/Session 1.5.md",
-    "Sesh's/Session 8.md",
     "Sesh's/Session 7.md",
+    "Sesh's/Session 8.md",
     "Sesh's/Session 6.md",
     "Sesh's/Session 5.md",
     "Sesh's/Session 3.md",
+    "Sesh's/Session 4.md",
     "Locations/Mountain Range.md",
+    "PCs/Brodie Uabhar.md",
     "PCs/Virk Sivra.md",
     "PCs/Khamoraz Ruthslayer.md",
     "NPCs/Minor NPCs/Caldus.md",
@@ -201,6 +197,7 @@
     "NPCs/Important NPCs/The Paladins.md",
     "Sesh's/Session 2.md",
     "Sesh's/Session 1.9.md",
+    "Sesh's/Session 1.5.md",
     "PCs/Azaia.md",
     "Items",
     "Sesh's/Session 1.md",
@@ -214,8 +211,11 @@
     "Locations/Valtherian",
     "Locations",
     "NPCs/Irrelevant NPCs",
+    "NPCs/Important NPCs/Commander Aedrik Thalor.md",
     "NPCs/Minor NPCs",
     "NPCs/Important NPCs",
+    "NPCs/Minor NPCs/Remy Grin.md",
+    "Locations/Valtherian/Harufen.md",
     "NPCs",
     "Sesh's",
     "PCs"
