@@ -1,0 +1,1 @@
+An unidentified soldier from the [[Training Grounds]] who had a one-night-stand with [[Brodie Uabhar]] in [[Session 1.9]].

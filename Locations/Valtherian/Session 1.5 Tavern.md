@@ -1,0 +1,1 @@
+Non-descript tavern from [[Session 1.5]]
