@@ -49,7 +49,7 @@ Brodie: Bro, I was dead, what do you expect to see someone to see when they're d
 
 Priest: Well, soldiers or people of great importance who have been revivified have been greeted by spirits of our Gods (we notice the Priest is trying to dumb this down). Did nothing try to guide you to our afterlife? We are just interested in what you may have seen or heard as people often come back with prophecies and other things of the like.
 
-Brodie (deceiving): I don't believe I have any reason to lie and you seem like reasonably knowledgeable person. When I died, I went to an empty stage and there was [[Rashka]] and he had masks. That is all.
+Brodie (deceiving): I don't believe I have any reason to lie and you seem like reasonably knowledgeable person. When I died, I went to an empty stage and there was Rashka and he had masks. That is all.
 
 The High Priest is finding it hard to compose himself and lots of his emotions are painted quite clearly on his face. In a flash there is a moment of confusion, a moment of concern and a moment of "oh I've hit jackpot."
 The High Priest can be seen hastily writing things down and he looks back at one of the clerics and we see him nod towards the cleric. 
