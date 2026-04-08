@@ -113,3 +113,7 @@ Azaia casts witchbolt at the Chiemera and hits it.
 Khamoraz knows there is a moment where when two mages of a similar school battle. The is a moment of harmony (similar wavelength). He feels that the magic involved here feels "samey".
 
 We now all notice that the roots have now moved a lot and have tried to usher Geoffrey out and have started entangling the creature. There is a flow of energy down form the tree into its roots. The nature of this attack feels familiar.
+
+# Condensed Notes
+
+**Mexican stand-off with Wolf

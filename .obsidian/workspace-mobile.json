@@ -11,10 +11,14 @@
             "id": "790fd917bbcfb620",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Sesh's/Session 8.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 8"
             }
           }
         ]
@@ -108,6 +112,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Sesh's/Session 8.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
