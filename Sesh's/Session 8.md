@@ -117,4 +117,6 @@ We now all notice that the roots have now moved a lot and have tried to usher Ge
 # Condensed Notes
 
 **Mexican stand-off with Wolf-Lion**
-Virk and Remy
+- Start with Wolf-Lion creature ‘angered’ by Geoffrey and, somewhat, Khamoraz.
+- Remy and Virk step away from the creature. Virk prepares to throw his axe.
+- Brodie approaches the creature and manages to convey that “we come in peace”.
