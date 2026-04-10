@@ -120,3 +120,10 @@ We now all notice that the roots have now moved a lot and have tried to usher Ge
 - Start with Wolf-Lion creature ‘angered’ by Geoffrey and, somewhat, Khamoraz.
 - Remy and Virk step away from the creature. Virk prepares to throw his axe.
 - Brodie approaches the creature and manages to convey that “we come in peace”.
+
+**Here Comes the Wolves (do-do-do-doo)**
+- Suddenly 4 wolves dash from the tree lines and start attacking the creature and combat ensues.
+- We decide to fight on the creatures behalf.
+- Fenwick battle summary:
+ - Fenwick smacks a wolf down.
+ - 
