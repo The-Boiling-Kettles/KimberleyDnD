@@ -149,5 +149,11 @@ We now all notice that the roots have now moved a lot and have tried to usher Ge
  - He shoots and kills a wolf.
  - He also heavily injures a dire wolf.
 - Brodie Battle Summary:
- - Brodie slides on his knees between the chimera's legs and slashes at the nearest wolf to him.
- - 
+ - He slides on his knees between the chimera's legs and slashes at the nearest wolf to him.
+ - The wolf then bites him back.
+ - Brodie then uses "Shatter":
+  - He pulls out his bagpipes and, instead of sound emanating from the pipes themselves, the sound emanates from between the remaining 2 wolves and dire wolf. 
+  - The sound is so loud that it induces heart attacks in the remaining 3 wolves.
+  - They each collapse to the ground and die
+  - "Oh baby, a triple!"
+- Brodie stands upon the corpse of the dire wolf to demonstrate his victory.
