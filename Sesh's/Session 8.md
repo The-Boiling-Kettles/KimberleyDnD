@@ -34,7 +34,7 @@ This creature has recognised we are fighting for it. There was a big chunk taken
 
 Azaia notices there are more sounds coming from the forest and sees 2 wolves by the tree-line bounding over.
 
-Virk is confused. He decides to reflect back on his military career to try and foresee the outcome of this encounter. After Dr Strange-ing to calculate all 242 billion outcomes, he imagines this chimera creature is a wild-card, he also surmises that there are probably going to be more wolves coming for this creature. 
+Virk is confused. He decides to reflect back on his military career to try and foresee the outcome of this encounter. After Dr Strange-ing to calculate all 242 billion outcomes, he concludes this chimera creature is a wild-card (so wise). He also surmises that there are probably going to be more wolves coming for this creature. 
 
 After coming up with this valuable wisdom he moves towards the trees and just chills out there, not wanting to get involved right now. He notices two wolves and hears the rumblings of potentially some larger creature.
 
@@ -130,4 +130,8 @@ We now all notice that the roots have now moved a lot and have tried to usher Ge
 - Khamoraz battle summary:
  - He slays a wolf with his greatsword.
  - He tries brokering peace by yelling "Stop fighting!" #Number1Diplomat
- - He tells the "sp"
+ - He tells the "spirit" to take shelter before charging at a dire wolf.
+- Azaia battle summary:
+ - She begins by readying a firebolt.
+ - Activating her ultimate "It's rewind time!" Azaia saves Fenwick by sending a firebolt at the dire wolf that was going to down him.
+ - 
