@@ -86,7 +86,7 @@ Fenwick gets the feeling that some of the actions we have taken has helped the c
 
 Khamoraz gets the feeling that if he can damage certain parts of the creature that will help the other parts of the creature. Khamoraz attempts to throw a javelin at the creature but it flies just past it.
 
-Azaia feels that if she can eliminate the foreign parts (lion part) of the creature the innate parts will have an easier time overcoming them. She also knows that She tries to send a witch bolt at the creature but misses. Azaia also feels that the magic feeling from this creature seems quite "wild" and "untameable".
+Azaia feels that if she can eliminate the foreign parts (lion part) of the creature the innate parts will have an easier time overcoming them. She tries to send a "Witch Bolt" at the creature but misses. Azaia also feels that the magic feeling from this creature seems quite "wild" and "untameable".
 
 Virk is still kneeling. He tries to stand up. As he tries he sees flashes of his military career where he hasn't agreed the orders he has been given but has had to obey them.
 
@@ -165,4 +165,5 @@ We now all notice that the roots have now moved a lot and have tried to usher Ge
 - The "spirit" attacks Fenwick and Geoffrey for not kneeling.
 - Geoffrey breaks free of the kneeling. He stands up, looks the creature in the eyes, and kneels again (genius).
 - Fenwick yells at the creature to reason with it and climbs onto the shrine roof.
-- 
+- Azaia sends a "Witch Bolt" at the creature but misses.
+- Brodie breaks free 
