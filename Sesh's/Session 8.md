@@ -40,7 +40,7 @@ After coming up with this valuable wisdom he moves towards the trees and just ch
 
 Geoffrey, with the help of Remy, manages to get up onto the roof this time. The roof is slanted and so it is difficult to manoeuvre while on it. He shoots at one of the wolves in the tree line and the arrow flies right through its neck and the wolf bleeds out and dies.
 
-Brodie slides between the chimera creature's legs to get between it and the wolf that is nearest to it. He uses his newly obtained cool dagger and slashes at the wolf. The wolf then bites Brodie.
+Brodie slides on his knees between the chimera creature's legs to get between it and the wolf that is nearest to it. He uses his newly obtained cool dagger and slashes at the wolf. The wolf then bites Brodie.
 
 Wolf in the tree line rushes towards Fenwick and tries to bite him but he dodges it.
 
@@ -149,4 +149,5 @@ We now all notice that the roots have now moved a lot and have tried to usher Ge
  - He shoots and kills a wolf.
  - He also heavily injures a dire wolf.
 - Brodie Battle Summary:
+ - Brodie slides on his knees between the chimera's legs and slashes at the nearest wolf to him.
  - 
