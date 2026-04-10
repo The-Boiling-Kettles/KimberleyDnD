@@ -125,5 +125,9 @@ We now all notice that the roots have now moved a lot and have tried to usher Ge
 - Suddenly 4 wolves dash from the tree lines and start attacking the creature and combat ensues.
 - We decide to fight on the creatures behalf.
 - Fenwick battle summary:
- - Fenwick smacks a wolf down.
- - 
+ - He smacks a wolf down.
+ - He gets knocked out by dire wolf but is resurrected via the power of retcon.
+- Khamoraz battle summary:
+ - He slays a wolf with his greatsword.
+ - He tries brokering peace by yelling "Stop fighting!" #Number1Diplomat
+ - He tells the "sp"
