@@ -138,9 +138,15 @@ We now all notice that the roots have now moved a lot and have tried to usher Ge
 - Virk Summary: 
  - Virk is confused. 
  - **Virk reflects** back on his military career to try and foresee the outcome of this encounter. After Dr Strange-ing to calculate all 242 billion outcomes, he concludes this chimera creature is a wild-card (so wise). He also surmises that there are probably going to be more wolves coming for this creature. 
- - After coming up with this valuable wisdom he moves towards the trees and just chills out there, not wanting to get involved right now.
+ - After coming up with this valuable wisdom, he moves towards the trees and just chills out there, not wanting to get involved right now.
  - Virk runs towards Geoffrey to talk with him. 
  - It's rewind time! Virk does not run towards Geoffrey. 
  - Virk is not a wood expert. 
  - Virk starts shouting at Geoffrey.
  - Virk then rushes to Brodie's aid, attempts to stab a wolf and misses. He tries again and this time slashes at the wolves neck and blood gushes out - it has been slain. 
+- Geoffrey Battle Summary:
+ - He clambers onto the roof of the shrine with help from Remy.
+ - He shoots and kills a wolf.
+ - He also heavily injures a dire wolf.
+- Brodie Battle Summary:
+ - 
