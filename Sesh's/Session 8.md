@@ -174,3 +174,4 @@ We now all notice that the roots have now moved a lot and have tried to usher Ge
 - **Geoffrey is downed**
 - Khamoraz breaks free and moves towards the creature. He notices the roots of the tree moving slightly out of his way as he steps.
 - Azaia hits the creatures with Witch Bolt. Khamoraz notices that there is a slight harmonic moment from the spell hitting the creature. Indicating the magics are of a similar source (wild magic innit).
+- We all notice the roots shifting G
