@@ -152,8 +152,13 @@ We now all notice that the roots have now moved a lot and have tried to usher Ge
  - He slides on his knees between the chimera's legs and slashes at the nearest wolf to him.
  - The wolf then bites him back.
  - Brodie then uses "Shatter":
-  - He pulls out his bagpipes and, instead of sound emanating from the pipes themselves, the sound emanates from between the remaining 2 wolves and dire wolf. 
+  - He pulls out his bagpipes and, instead of sound emanating from the pipes themselves, the sound emanates from between the last 2 wolves and dire wolf. 
   - The sound is so loud that it induces heart attacks in the remaining 3 wolves.
   - They each collapse to the ground and die
   - "Oh baby, a triple!"
 - Brodie stands upon the corpse of the dire wolf to demonstrate his victory.
+
+**Post-Battle Betrayal**
+- As the wolf parts of the "spirit" were being attacked in the battle, the lion parts began to expand.
+- After the last wolves are slain, the lion part of the "spirit" let out a booming roar.
+- All except Fenwick and Azaia feel compelled to kneel. This results in Geoffrey tumbling off the rood
