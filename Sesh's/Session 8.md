@@ -161,4 +161,8 @@ We now all notice that the roots have now moved a lot and have tried to usher Ge
 **Post-Battle Betrayal**
 - As the wolf parts of the "spirit" were being attacked in the battle, the lion parts began to expand.
 - After the last wolves are slain, the lion part of the "spirit" let out a booming roar.
-- All except Fenwick and Azaia feel compelled to kneel. This results in Geoffrey tumbling off the rood
+- All except Fenwick and Azaia feel compelled to kneel. This results in Geoffrey tumbling off the roof of the shrine.
+- The "spirit" attacks Fenwick and Geoffrey for not kneeling.
+- Geoffrey breaks free of the kneeling. He stands up, looks the creature in the eyes, and kneels again (genius).
+- Fenwick yells at the creature to reason with it and climbs onto the shrine roof.
+- 
