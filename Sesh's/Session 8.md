@@ -70,6 +70,8 @@ Geoffrey shoots at the last Dire wolf and it lands an arrow in its belly. The be
 
 Brodie uses "Shatter" to hit the remaining dire wolf and 2 regular wolves. He pulls out his bagpipes but the sound comes out from the spells centre and the volume of the sound is so loud and booming that it induces heart attacks in the remaining wolves. They all collapse and die. Brodie then clambers on top of the dire wolf to demonstrate he has come out victorious in the battle. This was an epic moment.
 
+**Post-Battle Betrayal**
+
 Azaia notices with her line of sight of the "spirit" that, as the spell goes off, the wolf parts of the creature regress. The lion eye then appears to be grinning. The lion parts of the creature begin to expand.
 
 The lion roars really loud. Khamoraz, Brodie, Geoffrey, Virk and Remy feel compelled to kneel. They kneel with one fist on the ground (superhero pose). Mechanically they are restrained/prone. 
