@@ -110,7 +110,7 @@ Khamoraz notices that the tree doesn't look healthy. Like a tree that hasn't had
 
 Azaia casts "Witch Bolt" at the "spirit" and hits it.
 
-Khamoraz knows there is a moment where, when two mages of a similar school battle. The is a moment of harmony (similar wavelength). He feels that the magic involved here feels "samey".
+Khamoraz knows, when two mages of a similar school battle, there is a moment of harmonics as the spells hit one another. Something about the source of magic hitting the creature has a similar-ish effect (wild magic stuff innit).
 
 We now all notice that the roots have now moved a lot and have tried to usher Geoffrey out and have started entangling the creature. There is a flow of energy down form the tree into its roots. The nature of this attack feels familiar.
 
@@ -171,4 +171,4 @@ We now all notice that the roots have now moved a lot and have tried to usher Ge
 - The "spirit" goes to attack Geoffrey but Geoffrey thrusts his shortsword into the neck of the "spirit" and knocks it prone. The creature gets back up and bites at Geoffrey.
 - **Geoffrey is downed**
 - Khamoraz breaks free and moves towards the creature. He notices the roots of the tree moving slightly out of his way as he steps.
-- Azaia hits the creatures with Witch Bolt.
+- Azaia hits the creatures with Witch Bolt. Khamoraz notices that there is a slight harmonic moment from the spell hitting the creature. Indicating the magics are of a similar source (wild magic innit).
