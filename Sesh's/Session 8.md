@@ -110,7 +110,7 @@ Khamoraz notices that the tree doesn't look healthy. Like a tree that hasn't had
 
 Azaia casts "Witch Bolt" at the "spirit" and hits it.
 
-Khamoraz knows there is a moment where when two mages of a similar school battle. The is a moment of harmony (similar wavelength). He feels that the magic involved here feels "samey".
+Khamoraz knows there is a moment where, when two mages of a similar school battle. The is a moment of harmony (similar wavelength). He feels that the magic involved here feels "samey".
 
 We now all notice that the roots have now moved a lot and have tried to usher Geoffrey out and have started entangling the creature. There is a flow of energy down form the tree into its roots. The nature of this attack feels familiar.
 
@@ -163,9 +163,11 @@ We now all notice that the roots have now moved a lot and have tried to usher Ge
 - After the last wolves are slain, the lion part of the "spirit" let out a booming roar.
 - All except Fenwick and Azaia feel compelled to kneel. This results in Geoffrey tumbling off the roof of the shrine.
 - The "spirit" attacks Fenwick and Geoffrey for not kneeling.
-- Geoffrey breaks free of the kneeling. He stands up, looks the creature in the eyes, and kneels again (genius). He also wa
+- Geoffrey breaks free of the kneeling. He stands up, looks the creature in the eyes, and kneels again (genius). He also wraps his hand around his sword (wink wink) in case he is attacked.
 - Fenwick yells at the creature to reason with it and climbs onto the shrine roof.
 - Azaia sends a "Witch Bolt" at the creature but misses.
 - Brodie breaks free and casts Bardic Inspiration on Fenwick.
 - Fenwick throws darts at the wolf parts of the "spirit" and leaps onto its head from the roof and starts smacking it before pushing himself off onto the ground.
+- The "spirit" goes to attack Geoffrey but Geoffrey thrusts his shortsword into the neck of the "spirit" and knocks it prone. The creature gets back up and bites at Geoffrey.
+- **Geoffrey is downed**
 - 
