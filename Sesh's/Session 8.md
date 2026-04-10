@@ -132,9 +132,9 @@ We now all notice that the roots have now moved a lot and have tried to usher Ge
  - He tries brokering peace by yelling "Stop fighting!" #Number1Diplomat
  - He tells the "spirit" to take shelter before charging at a dire wolf.
 - Azaia Battle Summary:
- - She begins by readying a firebolt.
- - Activating her ultimate "It's rewind time!" Azaia saves Fenwick by sending a firebolt at the dire wolf that was going to down him.
- - She sends another firebolt at the wolf by Fenwick at incinerates it.
+ - She begins by readying a Fire Bolt.
+ - Activating her ultimate "It's rewind time!" Azaia saves Fenwick by sending a Fire Bolt at the dire wolf that was going to down him.
+ - She sends another Fire Bolt at the wolf by Fenwick at incinerates it.
 - Virk Summary: 
  - Virk is confused. 
  - **Virk reflects** back on his military career to try and foresee the outcome of this encounter. After Dr Strange-ing to calculate all 242 billion outcomes, he concludes this chimera creature is a wild-card (so wise). He also surmises that there are probably going to be more wolves coming for this creature. 
@@ -151,7 +151,7 @@ We now all notice that the roots have now moved a lot and have tried to usher Ge
 - Brodie Battle Summary:
  - He slides on his knees between the chimera's legs and slashes at the nearest wolf to him.
  - The wolf then bites him back.
- - Brodie then uses "Shatter":
+ - Brodie then uses Shatter:
   - He pulls out his bagpipes and, instead of sound emanating from the pipes themselves, the sound emanates from between the last 2 wolves and dire wolf. 
   - The sound is so loud that it induces heart attacks in the remaining 3 wolves.
   - They each collapse to the ground and die
@@ -165,9 +165,10 @@ We now all notice that the roots have now moved a lot and have tried to usher Ge
 - The "spirit" attacks Fenwick and Geoffrey for not kneeling.
 - Geoffrey breaks free of the kneeling. He stands up, looks the creature in the eyes, and kneels again (genius). He also wraps his hand around his sword (wink wink) in case he is attacked.
 - Fenwick yells at the creature to reason with it and climbs onto the shrine roof.
-- Azaia sends a "Witch Bolt" at the creature but misses.
+- Azaia sends a Witch Bolt at the creature but misses.
 - Brodie breaks free and casts Bardic Inspiration on Fenwick.
 - Fenwick throws darts at the wolf parts of the "spirit" and leaps onto its head from the roof and starts smacking it before pushing himself off onto the ground.
 - The "spirit" goes to attack Geoffrey but Geoffrey thrusts his shortsword into the neck of the "spirit" and knocks it prone. The creature gets back up and bites at Geoffrey.
 - **Geoffrey is downed**
-- 
+- Khamoraz breaks free and moves towards the creature. He notices the roots of the tree moving slightly out of his way as he steps.
+- Azaia hits the creatures with Witch Bolt.
