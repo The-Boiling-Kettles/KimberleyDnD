@@ -56,7 +56,7 @@ It's rewind time! Azaia's readied firebolt was activated when the first dire wol
 
 Azaia now sends another firebolt at the other wolf by Fenwick and incinerates it.
 
-Virk runs towards Geoffrey. It's rewind time! Virk does not run towards Geoffrey. Virk is not a wood expert. Virk starts shouting at Geoffrey
+Virk runs towards Geoffrey to talk with him. It's rewind time! Virk does not run towards Geoffrey. Virk is not a wood expert. Virk starts shouting at Geoffrey.
 
 Virk: Geoffrey, what's the plan here? Are we going to continue attacking, are more going to come. Do we think having all these people around this creature is wise?
 
@@ -124,14 +124,23 @@ We now all notice that the roots have now moved a lot and have tried to usher Ge
 **Here Comes the Wolves (do-do-do-doo)**
 - Suddenly 4 wolves dash from the tree lines and start attacking the creature and combat ensues.
 - We decide to fight on the creatures behalf.
-- Fenwick battle summary:
+- Fenwick Battle Summary:
  - He smacks a wolf down.
  - He gets knocked out by dire wolf but is resurrected via the power of retcon.
-- Khamoraz battle summary:
+- Khamoraz Battle Summary:
  - He slays a wolf with his greatsword.
  - He tries brokering peace by yelling "Stop fighting!" #Number1Diplomat
  - He tells the "spirit" to take shelter before charging at a dire wolf.
-- Azaia battle summary:
+- Azaia Battle Summary:
  - She begins by readying a firebolt.
  - Activating her ultimate "It's rewind time!" Azaia saves Fenwick by sending a firebolt at the dire wolf that was going to down him.
- - 
+ - She sends another firebolt at the wolf by Fenwick at incinerates it.
+- Virk Summary: 
+ - Virk is confused. 
+ - **Virk reflects** back on his military career to try and foresee the outcome of this encounter. After Dr Strange-ing to calculate all 242 billion outcomes, he concludes this chimera creature is a wild-card (so wise). He also surmises that there are probably going to be more wolves coming for this creature. 
+ - After coming up with this valuable wisdom he moves towards the trees and just chills out there, not wanting to get involved right now.
+ - Virk runs towards Geoffrey to talk with him. 
+ - It's rewind time! Virk does not run towards Geoffrey. 
+ - Virk is not a wood expert. 
+ - Virk starts shouting at Geoffrey.
+ - Virk then rushes to Brodie's aid, attempts to stab a wolf and misses. He tries again and this time slashes at the wolves neck and blood gushes out - it has been slain. 
