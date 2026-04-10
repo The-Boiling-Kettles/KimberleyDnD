@@ -131,7 +131,7 @@ We now all notice that the roots have now moved a lot and have tried to usher Ge
  - He gets knocked out by dire wolf but is resurrected via the power of retcon.
 - Khamoraz Battle Summary:
  - He slays a wolf with his greatsword.
- - He tries brokering peace by yelling "Stop fighting!" #Number1Diplomat
+ - He tries brokering peace by yelling "Stop fighting!" 
  - He tells the "spirit" to take shelter before charging at a dire wolf.
 - Azaia Battle Summary:
  - She begins by readying a Fire Bolt.
@@ -174,4 +174,4 @@ We now all notice that the roots have now moved a lot and have tried to usher Ge
 - **Geoffrey is downed**
 - Khamoraz breaks free and moves towards the creature. He notices the roots of the tree moving slightly out of his way as he steps.
 - Azaia hits the creatures with Witch Bolt. Khamoraz notices that there is a slight harmonic moment from the spell hitting the creature. Indicating the magics are of a similar source (wild magic innit).
-- We all notice the roots shifting G
+- We all notice the roots shifting Geoffrey's body away from the battle.
