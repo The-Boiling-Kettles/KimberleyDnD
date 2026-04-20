@@ -99,7 +99,15 @@ Khamoraz: So what exactly happened with the lion and all of that?
 
 Spirit: I am unsure. There were people, they came with gifts. And then did something? And then I... I... I couldn't remember anymore. And then I... And then there was...
 
-*Khamoraz sees a flas*
+*Khamoraz sees a flash *
+
+Spirit: I killed so many.
+
+Khamoraz: Uh... yeah.
+
+Spirit: I was taken over by loyalty. Strange. It almost felt like... Hmph... Background noise. Very strange. Thank you for your assistance but I think I require some time to 
+
+You fixed that. You helped to hold it back so that I could reclaim me.
 
 
 
