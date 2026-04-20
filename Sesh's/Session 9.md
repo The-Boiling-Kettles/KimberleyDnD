@@ -21,7 +21,15 @@ The roots of the tree seem to start wrapping up around one of the paws of the cr
 
 Khamoraz reaches out his hand and places it on top of the "spirit's" head. He then swings his greatsword to try and cut off the constricted limb of the wolf but misses and clatters into some roots.
 
-Azaia
+Azaia cast Witch Bolt at the constrained limb. The bolt shoots past Khamomraz and zaps the "spirit's" limb.
+
+We can all hear the rustling in the trees increasing in volume.
+
+Virk stabs at the "spirit".
+
+Remy gives Azaia the help action.
+
+The roots wrap further a
 
 
 
