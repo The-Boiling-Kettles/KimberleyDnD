@@ -13,3 +13,7 @@ Remy has heard the sounds too and gives Azaia the help action.
 
 Brodie moves towards the rest of us while staying out of range of the "spirit" for now
 
+Fenwick stabilises Geoffrey.
+
+The "spirit" steps back away from our group and the lion 
+
