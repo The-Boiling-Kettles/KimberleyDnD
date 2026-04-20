@@ -73,9 +73,11 @@ Back at the tree, Khamoraz approaches and notices that the tree looks older than
 
 Virk goes over to Khamoraz to walk around the tree. On his way round the tree, Virk sees more carvings of:
 - Canine teeth.
-- A bush with.
+- A tree with a basket beneath.
 - Birds flying.
 - Fish in a stream and fish net.
+- A beehive.
+- Birds and spears.
 - Other scenes of the natural world (accompanied by "human" tools)
 
 Virk is not the most artistically minded but some of the carvings seem less well made than others.

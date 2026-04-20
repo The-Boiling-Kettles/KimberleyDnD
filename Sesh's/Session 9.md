@@ -71,7 +71,7 @@ Brodie tries to get tangled up by the roots.
 
 Virk is looking at the wooden panels. There is a stream with fish and in the corner is a net. 
 
-
+Fenwick and Geoffrey have a quick look around the area at remaining bones and stuff but don't find anything too groundbreaking.
 
 
 
