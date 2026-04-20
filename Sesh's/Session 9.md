@@ -15,5 +15,13 @@ Brodie moves towards the rest of us while staying out of range of the "spirit" f
 
 Fenwick stabilises Geoffrey.
 
-The "spirit" steps back away from our group and the lion 
+The "spirit" steps back away from our group and the lion parts seem to be regressing.
+
+The roots of the tree seem to start wrapping up around one of the paws of the creature (front left).
+
+Khamoraz reaches out his hand and places it on top of the "spirit's" head. He then swings his greatsword to try and cut off the constricted limb of the wolf but misses and clatters into some roots.
+
+Azaia
+
+
 
