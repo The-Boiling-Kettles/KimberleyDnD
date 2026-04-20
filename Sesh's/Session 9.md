@@ -65,6 +65,10 @@ Fenwick. Tales of spirits terrorising and also protecting villages and such. Bac
 
 Remy makes his way back towards the group and stares at the wolf in disbelief.
 
+Khamoraz starts the ritual spell "Speak with animals"
+
+Brodie tries to get tangled up by the roots.
+
 
 
 
