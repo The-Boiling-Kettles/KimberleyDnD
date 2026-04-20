@@ -76,9 +76,13 @@ Virk goes over to Khamoraz to walk around the tree. On his way round the tree, V
 - A tree with a basket beneath.
 - Birds flying.
 - Fish in a stream and fish net.
-- A beehive.
+- A beehive and some beekeeper protective gear.
 - Birds and spears.
-- Other scenes of the natural world (accompanied by "human" tools)
+- A set of hands pushing seeds into soil.
+- Stags antlers with bowls and baskets below filled with various food.
+- A w
+- Other scenes of the natural world (accompanied by "human" tools).
+- In each carving there is a small carving of some grain growing over time.
 
 Virk is not the most artistically minded but some of the carvings seem less well made than others.
 
