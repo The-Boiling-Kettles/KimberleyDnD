@@ -45,7 +45,7 @@ Virk wonders over to the slain wolves and the sits down by them. He ponders the 
 
 More vines/roots healing the wolf parts of the "spirit's".
 
-
+Fenwick slaps the creature some more.
 
 
 
