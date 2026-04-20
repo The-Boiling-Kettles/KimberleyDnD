@@ -37,5 +37,17 @@ Fenwick smacks the "spirit" in the back. As he pummels the creature, he feels it
 
 Khamoraz swings his greatsword at the creatures face and slashes its eye.
 
+Azaia re-activates her Witch Bolt to zap the "spirit's" leg.
+
+Virk wonders over to the slain wolves and the sits down by them. He ponders the existence of wood.
+
+
+
+More vines/roots healing the wolf parts of the "spirit's".
+
+
+
+
+
 
 
