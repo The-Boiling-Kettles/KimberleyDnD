@@ -11,3 +11,5 @@ Virk reflects and gives Brodie the help action.
 
 Remy has heard the sounds too and gives Azaia the help action.
 
+Brodie moves towards the rest of us while staying out of range of the "spirit" for now
+
