@@ -89,15 +89,15 @@ Spirit: We... We are... What are we called? What was the last name we had. Ah, y
 
 Khamoraz: My name is Khamoraz the Ruthslayer [lists a load of titles].
 
-Spirit: Ah, one of the mountain tribes if I remember correctly. 
+Auris: Ah, one of the mountain tribes if I remember correctly. 
 
 Khamoraz: You do remember correctly.
 
-Spirit: I am very sorry for that transpiring.
+Auris: I am very sorry for that transpiring.
 
 Khamoraz: So what exactly happened with the lion and all of that?
 
-Spirit: I am unsure. There were people, they came with gifts. And then did something? And then I... I... I couldn't remember anymore. And then I... And then there was...
+Auris: I am unsure. There were people, they came with gifts. And then did something? And then I... I... I couldn't remember anymore. And then I... And then there was...
 
 *Khamoraz sees a flash *
 
