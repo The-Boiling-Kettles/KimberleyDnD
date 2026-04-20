@@ -71,7 +71,7 @@ Brodie tries to get tangled up by the roots.
 
 Virk is looking at the wooden panels. There is a stream with fish and in the corner is a net. 
 
-Goeffrey walks over to Virk. He sees a stalk of some plant in a field 
+
 
 
 
