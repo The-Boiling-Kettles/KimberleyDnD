@@ -59,7 +59,11 @@ Now, standing before us, the "spirit" has completely turned into some kind of wo
 
 Khamoraz goes over to the spirit and tries placing some of the vines over the creature. There seems to be a faint glow.
 
-Khamoraz knows there a stories in the mountains of bestial spirits. There were no myths of anything this big of this description. BUt there are similar tales that he has been brought up with that he i
+Khamoraz knows there a stories in the mountains of bestial spirits. There were no myths of anything this big of this description. But there are similar tales that he has been brought up with that he is familiar with.
+
+Fenwick. Tales of spirits terrorising and also protecting villages and such. Back in the Whimtree Duchy he was brought up with bedtime tales of spirits that would bargain and were revered as agents of gods. He doesn't recognise this spirit in particular. Bird spirits were particularly prominent in tales.
+
+Remy makes his way back towards the group and stares at the wolf in disbelief.
 
 
 
