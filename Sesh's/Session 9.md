@@ -75,7 +75,32 @@ Fenwick and Geoffrey have a quick look around the area at remaining bones. The n
 
 Geoffrey investigates the carvings round the shrine. He is not an artist. He notices that there is something off about some of the engravings. There are some particularly deep out of place lines on some of them.
 
-Khamoraz finishes his ritual casting.
+Khamoraz finishes his ritual casting. Khamoraz tries to gently shake the "spirit" to wake it up by
+
+Khamoraz: Hello?
+
+*Creature gets up*
+
+Spirit: Hello, thank you for your assistance.
+
+Khamoraz:
+
+Spirit: We... We are... What are we called? What was the last name we had. Ah, yes. Auris. Ethe'Auris, that is what we are. I am Auris the wolf spirit.
+
+Khamoraz: My name is Khamoraz the Ruthslayer [lists a load of titles].
+
+Spirit: Ah, one of the mountain tribes if I remember correctly. 
+
+Khamoraz: You do remember correctly.
+
+Spirit: I am very sorry for that transpiring.
+
+Khamoraz: So what exactly happened with the lion and all of that?
+
+Spirit: I am unsure. There were people, they came with gifts. And then did something? And then I... I... I couldn't remember anymore. And then I... And then there was...
+
+*Khamoraz sees a flas*
+
 
 
 
