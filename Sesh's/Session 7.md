@@ -73,14 +73,14 @@ Back at the tree, Khamoraz approaches and notices that the tree looks older than
 
 Virk goes over to Khamoraz to walk around the tree. On his way round the tree, Virk sees more carvings of:
 - Canine teeth.
-- A tree with a basket beneath.
+- A massive tree with particularly large apples and basket beneath.
 - Birds flying.
 - Fish in a stream and fish net.
 - A beehive and some beekeeper protective gear.
 - Birds and spears.
 - A set of hands pushing seeds into soil.
 - Stags antlers with bowls and baskets below filled with various food.
-- A w
+- A wolf alongside a humanoid figure stalking through the forest.
 - Other scenes of the natural world (accompanied by "human" tools).
 - In each carving there is a small carving of some grain growing over time.
 

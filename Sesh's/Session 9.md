@@ -71,7 +71,11 @@ Brodie tries to get tangled up by the roots.
 
 Virk is looking at the wooden panels. There is a stream with fish and in the corner is a net. 
 
-Fenwick and Geoffrey have a quick look around the area at remaining bones and stuff but don't find anything too groundbreaking.
+Fenwick and Geoffrey have a quick look around the area at remaining bones. The notice some vials that are the same as found at the Elway shrine.
+
+Geoffrey investigates the carvings round the shrine. He is not an artist. He notices that there is something off about some of the engravings. There are some particularly deep out of place lines on some of them.
+
+Khamoraz finishes his ritual casting.
 
 
 
