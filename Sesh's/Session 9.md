@@ -29,7 +29,11 @@ Virk stabs at the "spirit".
 
 Remy gives Azaia the help action.
 
-The roots wrap further a
+The roots wrap further around the creatures body and emit a slight glow. The old withered parts of the "spirit" appear to rejuvenate.
+
+Brodie cast Fairie Fire at the "spirit" but the magic just seems to ripple over it.
+
+
 
 
 
