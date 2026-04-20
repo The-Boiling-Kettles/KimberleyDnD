@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Session 8"
             }
+          },
+          {
+            "id": "60b0eec068bad03e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sesh's/Session 9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,10 +199,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "70149ff1a0f9785c",
+  "active": "60b0eec068bad03e",
   "lastOpenFiles": [
-    "Sesh's/Session 7.md",
     "Sesh's/Session 8.md",
+    "Sesh's/Session 9.md",
+    "Sesh's/Session 7.md",
     "Sesh's/Session 6.md",
     "Sesh's/Session 5.md",
     "Sesh's/Session 3.md",
@@ -219,7 +235,6 @@
     "NPCs/Minor NPCs",
     "NPCs/Important NPCs",
     "NPCs/Minor NPCs/Remy Grin.md",
-    "Locations/Valtherian/Harufen.md",
     "NPCs",
     "Sesh's",
     "PCs"
