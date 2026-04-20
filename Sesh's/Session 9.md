@@ -57,6 +57,10 @@ Azaia theorises this rush of energy has paralysed the approaching creatures. Kha
 
 Now, standing before us, the "spirit" has completely turned into some kind of wolf (at least 3 times larger than a dire wolf). It then collapses to the ground and the roots everywhere retreat back to their original positions.
 
+Khamoraz goes over to the spirit and tries placing some of the vines over the creature. There seems to be a faint glow.
+
+Khamoraz knows there a stories in the mountains of bestial spirits. There were no myths of anything this big of this description. BUt there are similar tales that he has been brought up with that he i
+
 
 
 
