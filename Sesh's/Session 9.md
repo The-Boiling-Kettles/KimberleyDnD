@@ -47,6 +47,14 @@ More vines/roots healing the wolf parts of the "spirit's".
 
 Fenwick slaps the creature some more.
 
+The creature appears to start retching and the lion parts seem to be . To Brodie when the "spirit" retches, there's a lot of green over the tree and roots. The wolf parts appear to match the green with hints of yellow and amber. The lion parts that are decreasing are a deep red. The creature then expels this energy which shoots up into the sky.
+
+Azaia feels a huge rush of energy. Like she has just taken a bump of cocaine. There is a kind of resonance she feels with this energy.
+
+The sounds surrounding us stop dead.
+
+Azaia theorises this rush of energy has paralysed the approaching creatures. Khamoraz recognises this as a bestial 
+
 
 
 
