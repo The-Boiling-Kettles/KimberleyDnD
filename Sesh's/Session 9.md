@@ -113,4 +113,10 @@ You fixed that. You helped to hold it back so that I could reclaim me.
 
 
 
+Spirit: Unfortunately the forests have been left less than bountiful for many years now. So there have been fewer and fewer people leaving offerings.
+
+
+
+
+
 
