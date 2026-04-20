@@ -33,7 +33,9 @@ The roots wrap further around the creatures body and emit a slight glow. The old
 
 Brodie cast Fairie Fire at the "spirit" but the magic just seems to ripple over it.
 
+Fenwick smacks the "spirit" in the back. As he pummels the creature, he feels its spine crack under the pressure.
 
+Khamoraz swings his greatsword at the creatures face and slashes its eye.
 
 
 
