@@ -151,11 +151,17 @@ Auris: Thank you, once again, for what you have done. Had you not arrived when y
 
 Khamoraz: Is there anything more we can do for you.
 
-Auris: There is nothi
+Auris: There is nothing you can do for me here. But, I cannot let you go empty handed so wait here.
+
+*Auris stands up and towers at least 6ft above Khamoraz and saunters back to the tree.*
 
 
 
+# Condensed Notes
 
+**Freeing the Spirit**
+- We here some rustling in the trees around us. It is getting closer.
+- 
 
 
 
