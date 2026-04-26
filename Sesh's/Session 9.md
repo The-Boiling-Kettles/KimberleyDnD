@@ -135,7 +135,25 @@ Auris: Unfortunately the forests have been left less than bountiful for many yea
 
 Khamoraz: What do you like as offerings?
 
-Auris: Well, we spirits exist off of belief. The offering service acts as a medium for people to display that. When the forest stops providing, people stop coming. Me and Ethe ar
+Auris: Well, we spirits exist off of belief. The offering service acts as a medium for people to display that. When the forest stops providing, people stop coming. Me and Ethe are only here because we have enough remnant belief, enough stories and enough latent activity that we can continue on. Elway was one of minor prey such as rabbits, squirrels and small birds. When those are no longer here and can no longer be hunted, there is no reason for offerings to be given.
+
+Khamoraz: That's pretty sad.
+
+Auris: Yes, it is.
+
+Khamoraz: Perhaps he will return one day. 
+
+Auris: Well, spirits don't really die since we are not really alive as such. We are more an aspect of our God. I believe your most famed one would be below that mountain. I suppose we are a form of that but far more minor.
+
+Khamoraz: I understand.
+
+Auris: Thank you, once again, for what you have done. Had you not arrived when you had, I fear what my essence I might have become.
+
+Khamoraz: Is there anything more we can do for you.
+
+Auris: There is nothi
+
+
 
 
 
