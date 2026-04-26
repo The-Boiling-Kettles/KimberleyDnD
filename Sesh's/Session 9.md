@@ -77,17 +77,21 @@ Fenwick and Geoffrey have a quick look around the area at remaining bones. The n
 
 Geoffrey investigates the carvings round the shrine. He is not an artist. He notices that there is something off about some of the engravings. There are some particularly deep out of place lines on some of them.
 
-Khamoraz finishes his ritual casting. Khamoraz tries to gently shake the "spirit" to wake it up by
+Khamoraz finishes his ritual casting. Khamoraz tries to gently shake the "spirit" to wake it up.
 
 Khamoraz: Hello?
 
-*Creature gets up*
+*Creature gets up and turns around before laying down (as to not tower over Khamoraz).*
 
 Spirit: Hello, thank you for your assistance.
 
-Khamoraz:
+Khamoraz: Yeah, couldn't really do anything else in that situation but I appreciate your gratitude. So what exactly is this place, do you know?
 
-Spirit: We... We are... What are we called? What was the last name we had. Ah, yes. Auris. Ethe'Auris, that is what we are. I am Auris the wolf spirit.
+Spirit: This is our shrine.
+
+Khamoraz: A shrine to you?
+
+Spirit [gesturing towards the large tree]: Us. We are a pair. We... We are... What are we called? What was the last name we had. Ah, yes. Auris. Ethe'Auris, that is what we are. I am Auris the wolf spirit.
 
 Khamoraz: My name is Khamoraz the Ruthslayer [lists a load of titles].
 
