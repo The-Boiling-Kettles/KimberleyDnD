@@ -121,7 +121,13 @@ Khamoraz: Uh... yeah.
 
 Auris: I was taken over by... Loyalty? Strange. It almost felt like... Hmph... Background noise. Very strange. Thank you for your assistance but, I think I require some time to think. I haven't exactly been thinking straight for the past few days. It has been a battle with myself, I suppose. You fixed that. You helped to hold it back so that I could reclaim me.
 
-*Auris, then takes a pasu*
+Khamoraz: We have come across other shrines, do you know anything about those? A small box laid across a pedestal, Elway I heard it was called?
+
+Auris: Yes, one in my domain. How aware are you of spirits?
+
+Khamoraz: I know a lot about spirits. The dwarven realms have quite a relationship with them.
+
+Auris: Of course. Well, these forests, and the surrounding areas, are governed by spirits, in a way. As I'm sure you'rea aware, we take on a par
 
 
 
