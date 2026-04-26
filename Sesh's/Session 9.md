@@ -49,15 +49,17 @@ More vines/roots healing the wolf parts of the "spirit".
 
 Fenwick slaps the creature some more.
 
-The creature appears to start retching and the lion parts seem to be . To Brodie when the "spirit" retches, there's a lot of green over the tree and roots. The wolf parts appear to match the green with hints of yellow and amber. The lion parts that are decreasing are a deep red. The creature then expels this energy which shoots up into the sky.
+The creature appears to start retching and the lion parts seem to decrease in size. To Brodie, when the "spirit" retches, he sees stuff. There's a lot of green aura over the tree and roots. The wolf parts appear to match the green with hints of yellow and amber. The lion parts that are decreasing are a deep red. The creature then expels this red energy which shoots up into the sky.
 
 Azaia feels a huge rush of energy. Like she has just taken a bump of cocaine. There is a kind of resonance she feels with this energy.
 
 The sounds surrounding us stop dead.
 
-Azaia theorises this rush of energy has paralysed the approaching creatures. Khamoraz recognises this as a bestial
+Azaia theorises this rush of energy has paralysed the approaching creatures. Khamoraz recognises this as some kind of bestial fear effect from a dominating presence entering the area. We then hear the sounds retreated into back into the darkness.
 
 Now, standing before us, the "spirit" has completely turned into some kind of wolf (at least 3 times larger than a dire wolf). It then collapses to the ground and the roots everywhere retreat back to their original positions.
+
+Geoffrey is healed to 3 hp by the roots and stuff, I think
 
 Khamoraz goes over to the spirit and tries placing some of the vines over the creature. There seems to be a faint glow.
 
