@@ -71,7 +71,13 @@ Remy makes his way back towards the group and stares at the wolf in disbelief.
 
 Khamoraz starts the ritual spell "Speak with animals"
 
-Brodie tries to get tangled up by the roots. He tries luring them in with his low hp. I'm a weak little Tiefling, please help me. Tie me up, please 
+Brodie tries to get tangled up by the roots. He tries luring them in with his low hp.
+
+Brodie: I'm a weak little Tiefling, please help me. Tie me up, please.
+
+Brodie even tries lying down by the roots, pulling himself across them.
+
+Nothing happens. The tree has already gone soft after helping out the "spirit".
 
 Virk is looking at the wooden panels. There is a stream with fish and in the corner is a net. 
 
@@ -162,9 +168,10 @@ Auris: There is nothing you can do for me here. But, I cannot let you go empty h
 # Condensed Notes
 
 **Freeing the Spirit**
-- We here some rustling in the trees around us. It is getting closer.
+- We hear some rustling in the trees around us. The rustling is getting closer.
 - Geoffrey is stabilised.
 - The tree's roots help us as we kick the heck out of the lion parts of the "spirit".
+- Eventually, the "spirit" collapses
 
 
 
