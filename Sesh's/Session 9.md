@@ -7,6 +7,8 @@ Participants:
 
 # Full Notes
 
+
+**Exorcising the Spirit**
 We start where we left off, in the Auflen Forest, at the shrine of Ethe'Auris, with the "Spirit" having just betrayed us.
 
 Khamoraz notices a lot of rustling in the trees. There are other things approaching from all directions. We probably have about 4 rounds worth of time until the approaching sounds reach us. 
@@ -169,7 +171,7 @@ Auris: There is nothing you can do for me here. But, I cannot let you go empty h
 
 # Condensed Notes
 
-**Freeing the Spirit**
+**Exorcising the Spirit**
 - We hear some rustling in the trees around us. The rustling is getting closer.
 - Geoffrey is stabilised.
 - The tree's roots help us as we kick the heck out of the lion parts of the "spirit".
@@ -180,12 +182,17 @@ Auris: There is nothing you can do for me here. But, I cannot let you go empty h
 - The roots heal Geoffrey to 3hp.
 - Brodie tries to get jiggy with the tree but it has gone soft. But he gets a free hug from Fenwick.
 - Khamoraz starts ritual casting Speak with animals.
-- Geoffrey and Fenwick go looking at the wood carvings. All are of nature with accompanying "human" use of nature (i.e. fish in a stream and a fishing net). Some lines seem out of place.
+- Geoffrey and Fenwick go looking at the wood carvings. Some lines seem out of place.
+- Geoffrey and Fenwick also see more of the glass vials seen at the Elway shrine.
 
 **Speaking with ~~Aslan~~ Auris**
  - Khamoraz learns the spirit's name is Auris and the tree is Ethe.
  - Together, they take on an aspect of the God Havron.
- - Auris tells us Elway is the spirit of small prey (rabbits, squirrels, small birds etc.)
+ - Auris doesn't remember what happened to cause the state he/she was in.
+ - Just remembers people coming with "gifts" and then doing something.
+ - Auris tells us Elway is the spirit of small prey (rabbits, squirrels, small birds etc.).
+ - Auris explains the forest has stopped providing, so people have stopped leaving offerings.
+ - Auris thanks us for our help and says he wants to give us something before we go.
 
 
 
