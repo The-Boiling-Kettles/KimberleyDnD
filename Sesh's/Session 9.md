@@ -5,6 +5,8 @@ Participants:
 - [[Brodie Uabhar]]
 - [[Fenwick Whimtree]]
 
+We start where we left off, in the Auflen Forest, at the shrine of Ethe'Auris, with the "Spirit" having just betrayed us.
+
 Khamoraz notices a lot of rustling in the trees. There are other things approaching from all directions. We probably have about 4 rounds worth of time until the approaching sounds reach us. 
 
 Virk reflects and gives Brodie the help action.
