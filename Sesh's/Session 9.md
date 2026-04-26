@@ -177,7 +177,10 @@ Auris: There is nothing you can do for me here. But, I cannot let you go empty h
 - The sounds in the darkness stop and retreat.
 
 **In the Forest, the Auflen Forest, the Wolf Sleeps Tonight**
-
+- The roots heal Geoffrey to 3hp.
+- Brodie tries to get jiggy with the tree but it has gone soft. But he gets a free hug from Fenwick.
+- Khamoraz starts ritual casting speak with animals.
+- Geoffrey and Fenwick go looking at wood carvings
 
 
 
