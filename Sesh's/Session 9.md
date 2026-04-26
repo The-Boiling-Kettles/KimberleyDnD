@@ -5,6 +5,8 @@ Participants:
 - [[Brodie Uabhar]]
 - [[Fenwick Whimtree]]
 
+# Full Notes
+
 We start where we left off, in the Auflen Forest, at the shrine of Ethe'Auris, with the "Spirit" having just betrayed us.
 
 Khamoraz notices a lot of rustling in the trees. There are other things approaching from all directions. We probably have about 4 rounds worth of time until the approaching sounds reach us. 
@@ -23,7 +25,7 @@ The roots of the tree seem to start wrapping up around one of the paws of the cr
 
 Khamoraz reaches out his hand and places it on top of the "spirit's" head. He then swings his greatsword to try and cut off the constricted limb of the wolf but misses and clatters into some roots.
 
-Azaia cast Witch Bolt at the constrained limb. The bolt shoots past Khamomraz and zaps the "spirit's" limb.
+Azaia cast Witch Bolt at the constrained limb. The bolt shoots past Khamomraz and zaps a limb of the "spirit".
 
 We can all hear the rustling in the trees increasing in volume.
 
@@ -33,19 +35,17 @@ Remy gives Azaia the help action.
 
 The roots wrap further around the creatures body and emit a slight glow. The old withered parts of the "spirit" appear to rejuvenate.
 
-Brodie cast Fairie Fire at the "spirit" but the magic just seems to ripple over it.
+Brodie cast Faerie Fire at the "spirit" but the magic just seems to ripple over it.
 
 Fenwick smacks the "spirit" in the back. As he pummels the creature, he feels its spine crack under the pressure.
 
-Khamoraz swings his greatsword at the creatures face and slashes its eye.
+Khamoraz swings his great sword at the creatures face and slashes its eye.
 
-Azaia re-activates her Witch Bolt to zap the "spirit's" leg.
+Azaia re-activates her Witch Bolt to zap the leg of the "spirit".
 
 Virk wonders over to the slain wolves and the sits down by them. He ponders the existence of wood.
 
-
-
-More vines/roots healing the wolf parts of the "spirit's".
+More vines/roots healing the wolf parts of the "spirit".
 
 Fenwick slaps the creature some more.
 
@@ -161,7 +161,8 @@ Auris: There is nothing you can do for me here. But, I cannot let you go empty h
 
 **Freeing the Spirit**
 - We here some rustling in the trees around us. It is getting closer.
-- 
+- Geoffrey is stabilised.
+- The tree's roots help us as we kick the heck out of the lion parts of the "spirit".
 
 
 
