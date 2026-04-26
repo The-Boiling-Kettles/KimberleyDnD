@@ -91,6 +91,8 @@ Fenwick and Geoffrey have a quick look around the area at remaining bones. The n
 
 Geoffrey investigates the carvings round the shrine. He is not an artist. He notices that there is something off about some of the engravings. There are some particularly deep out of place lines on some of them.
 
+**Speaking with ~~Aslan~~ Auris**
+
 Khamoraz finishes his ritual casting. Khamoraz tries to gently shake the "spirit" to wake it up.
 
 Khamoraz: Hello?
