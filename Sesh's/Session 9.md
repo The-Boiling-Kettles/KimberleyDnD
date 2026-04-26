@@ -107,21 +107,21 @@ Auris: It has been a long time since I have spoken with one of yours.
 
 Khamoraz: That is a shame we are a good people. In fact, we could use your help. My tribe has been taken over by a bunch of hooligans from the North.
 
-I am very sorry for that transpiring. Unfortunately it has been a while since we last had visitors.
+Auris: I am very sorry for that transpiring. Unfortunately it has been a while since we last had visitors, frankly. I am not quite up to strength currently.
 
 Khamoraz: So what exactly happened with the lion and all of that?
 
 Auris: I am unsure. There were people, they came with gifts. And then did something? And then I... I... I couldn't remember anymore. And then I... And then there was...
 
-*Khamoraz sees a flash *
+*Khamoraz sees a flash - from warrior to warrior - of violence.*
 
-Spirit: I killed so many.
+Auris: I killed so many.
 
 Khamoraz: Uh... yeah.
 
-Spirit: I was taken over by loyalty. Strange. It almost felt like... Hmph... Background noise. Very strange. Thank you for your assistance but I think I require some time to 
+Auris: I was taken over by... Loyalty? Strange. It almost felt like... Hmph... Background noise. Very strange. Thank you for your assistance but, I think I require some time to think. I haven't exactly been thinking straight for the past few days. It has been a battle with myself, I suppose. You fixed that. You helped to hold it back so that I could reclaim me.
 
-You fixed that. You helped to hold it back so that I could reclaim me.
+*Auris, then takes a pasu*
 
 
 
