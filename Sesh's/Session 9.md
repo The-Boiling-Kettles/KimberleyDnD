@@ -127,13 +127,15 @@ Auris: Yes, one in my domain. How aware are you of spirits?
 
 Khamoraz: I know a lot about spirits. The dwarven realms have quite a relationship with them.
 
-Auris: Of course. Well, these forests, and the surrounding areas, are governed by spirits, in a way. As I'm sure you'rea aware, we take on a par
+Auris: Of course. Well, these forests, and the surrounding areas, are governed by spirits, in a way. As I'm sure you're aware, we take on a particular aspect of our God. Havron is ours. We govern our aspect of our God in this region. I am not exactly a major spirit but I'm not as minor a spirit as Elway.
 
+Khamoraz: We actually didn't meet Elway, there was no one at the shrine. Do you know anything about that?
 
+Auris: Unfortunately the forests have been left less than bountiful for many years now. So when there is nothing to be gained, people don't leave offerings.
 
+Khamoraz: What do you like as offerings?
 
-
-Spirit: Unfortunately the forests have been left less than bountiful for many years now. So there have been fewer and fewer people leaving offerings.
+Auris: Well, we spirits exist off of belief. The offering service acts as a medium for people to display that. When the forest stops providing, people stop coming. Me and Ethe ar
 
 
 
