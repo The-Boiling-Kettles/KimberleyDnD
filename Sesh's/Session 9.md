@@ -59,19 +59,19 @@ Azaia theorises this rush of energy has paralysed the approaching creatures. Kha
 
 Now, standing before us, the "spirit" has completely turned into some kind of wolf (at least 3 times larger than a dire wolf). It then collapses to the ground and the roots everywhere retreat back to their original positions.
 
-Geoffrey is healed to 3 hp by the roots and stuff, I think
+Geoffrey is healed to 3 hp by the roots and stuff.
 
 Khamoraz goes over to the spirit and tries placing some of the vines over the creature. There seems to be a faint glow.
 
 Khamoraz knows there a stories in the mountains of bestial spirits. There were no myths of anything this big of this description. But there are similar tales that he has been brought up with that he is familiar with.
 
-Fenwick. Tales of spirits terrorising and also protecting villages and such. Back in the Whimtree Duchy he was brought up with bedtime tales of spirits that would bargain and were revered as agents of gods. He doesn't recognise this spirit in particular. Bird spirits were particularly prominent in tales.
+Fenwick knows of tales of spirits terrorising and also protecting villages and such. Back in the Whimtree Duchy, he was brought up with bedtime tales of great beast that would bargain for resources and some were revered as agents of gods. He doesn't recognise this spirit in particular. Bird spirits were particularly prominent in tales.
 
 Remy makes his way back towards the group and stares at the wolf in disbelief.
 
 Khamoraz starts the ritual spell "Speak with animals"
 
-Brodie tries to get tangled up by the roots.
+Brodie tries to get tangled up by the roots. He tries luring them in with his low hp. I'm a weak little Tiefling, please help me. Tie me up, please 
 
 Virk is looking at the wooden panels. There is a stream with fish and in the corner is a net. 
 
