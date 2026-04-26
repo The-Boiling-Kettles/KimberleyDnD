@@ -180,11 +180,12 @@ Auris: There is nothing you can do for me here. But, I cannot let you go empty h
 - The roots heal Geoffrey to 3hp.
 - Brodie tries to get jiggy with the tree but it has gone soft. But he gets a free hug from Fenwick.
 - Khamoraz starts ritual casting Speak with animals.
-- Geoffrey and Fenwick go looking at the wood carvings. Some lines seem out of place.
+- Geoffrey and Fenwick go looking at the wood carvings. All are of nature with accompanying "human" use of nature (i.e. fish in a stream and a fishing net). Some lines seem out of place.
 
 **Speaking with ~~Aslan~~ Auris**
- - Khamoraz learns the spirit's name is Auris.
- - 
+ - Khamoraz learns the spirit's name is Auris and the tree is Ethe.
+ - Together, they take on an aspect of the God Havron.
+ - Auris tells us Elway is the spirit of small prey (rabbits, squirrels, small birds etc.)
 
 
 
