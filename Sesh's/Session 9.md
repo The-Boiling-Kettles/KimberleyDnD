@@ -39,7 +39,7 @@ Brodie cast Faerie Fire at the "spirit" but the magic just seems to ripple over 
 
 Fenwick smacks the "spirit" in the back. As he pummels the creature, he feels its spine crack under the pressure.
 
-Khamoraz swings his great sword at the creatures face and slashes its eye.
+Khamoraz swings his greatsword at the creatures face and slashes its eye.
 
 Azaia re-activates her Witch Bolt to zap the leg of the "spirit".
 
