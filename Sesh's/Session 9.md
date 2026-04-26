@@ -81,7 +81,7 @@ Nothing happens. The tree has already gone soft after helping out the "spirit".
 
 Fenwick goes over to the wolf "spirit" and gives it a hug. Brodie, feeling sad after being rejected, approaches Fenwick and asks for hug. Fenwick being the kind soul that he is, accepts. They hug.
 
-Virk is looking at the wooden panels. There is a stream with fish and in the corner is a net. 
+Virk is looking at the wooden panels.  
 
 Fenwick and Geoffrey have a quick look around the area at remaining bones. The notice some vials that are the same as found at the Elway shrine.
 
@@ -179,9 +179,12 @@ Auris: There is nothing you can do for me here. But, I cannot let you go empty h
 **In the Forest, the Auflen Forest, the Wolf Sleeps Tonight**
 - The roots heal Geoffrey to 3hp.
 - Brodie tries to get jiggy with the tree but it has gone soft. But he gets a free hug from Fenwick.
-- Khamoraz starts ritual casting speak with animals.
-- Geoffrey and Fenwick go looking at wood carvings
+- Khamoraz starts ritual casting Speak with animals.
+- Geoffrey and Fenwick go looking at the wood carvings. Some lines seem out of place.
 
+**Speaking with ~~Aslan~~ Auris**
+ - Khamoraz learns the spirit's name is Auris.
+ - 
 
 
 
