@@ -91,15 +91,23 @@ Spirit: This is our shrine.
 
 Khamoraz: A shrine to you?
 
-Spirit [gesturing towards the large tree]: Us. We are a pair. We... We are... What are we called? What was the last name we had. Ah, yes. Auris. Ethe'Auris, that is what we are. I am Auris the wolf spirit.
+Spirit [gesturing towards the large tree]: Us. We are a pair. We... We are... What are we called? What was the last name we had? Ravnu? No. Ah, yes. I think the last time was Auris. Ethe'Auris, that is what we are. I am Auris the wolf spirit. A pleasure to meet you. Your not from here are you?
+
+Khamoraz: I suppose not really.
+
+Auris: Sorry, it's slightly rude, I can tell, there is... How can I put it? Interference? Sorry, your name?
 
 Khamoraz: My name is Khamoraz the Ruthslayer [lists a load of titles].
 
 Auris: Ah, one of the mountain tribes if I remember correctly. 
 
-Khamoraz: You do remember correctly.
+Khamoraz: You do remember correctly. Indeed. Indeed.
 
-Auris: I am very sorry for that transpiring.
+Auris: It has been a long time since I have spoken with one of yours. 
+
+Khamoraz: That is a shame we are a good people. In fact, we could use your help. My tribe has been taken over by a bunch of hooligans from the North.
+
+I am very sorry for that transpiring. Unfortunately it has been a while since we last had visitors.
 
 Khamoraz: So what exactly happened with the lion and all of that?
 
