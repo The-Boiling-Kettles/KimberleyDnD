@@ -79,6 +79,8 @@ Brodie even tries lying down by the roots, pulling himself across them.
 
 Nothing happens. The tree has already gone soft after helping out the "spirit".
 
+Fenwick goes over to the wolf "spirit" and gives it a hug. Brodie, feeling sad after being rejected, approaches Fenwick and asks for hug. Fenwick being the kind soul that he is, accepts. They hug.
+
 Virk is looking at the wooden panels. There is a stream with fish and in the corner is a net. 
 
 Fenwick and Geoffrey have a quick look around the area at remaining bones. The notice some vials that are the same as found at the Elway shrine.
@@ -171,7 +173,11 @@ Auris: There is nothing you can do for me here. But, I cannot let you go empty h
 - We hear some rustling in the trees around us. The rustling is getting closer.
 - Geoffrey is stabilised.
 - The tree's roots help us as we kick the heck out of the lion parts of the "spirit".
-- Eventually, the "spirit" collapses
+- Eventually, the "spirit" collapses and red energy is expelled from the creature.
+- The sounds in the darkness stop and retreat.
+
+**In the Forest, the Auflen Forest, the Wolf Sleeps Tonight**
+
 
 
 
