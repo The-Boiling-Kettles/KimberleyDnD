@@ -81,7 +81,17 @@ We sleep.
 
 Brodie pulls out another fuzzy ball. A dire wolf appears out of the bag. Brodie starts giving the wolf belly rubs and starts doing tricks.
 
-Virk 
+Virk approaches Khamoraz.
+
+Virk: With these knives how good 
+
+Khamoraz:
+
+Virk: I am just wondering
+
+Khamoraz: 
+
+Khamoraz: Spirit
 
 
 
