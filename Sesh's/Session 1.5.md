@@ -4,7 +4,7 @@ Participants:
 - [[Khamoraz Ruthslayer]]
 - [[Brodie Uabhar]]
 
-We were informed by [[Commander Aedrik Thalor]] that multiple cargo runs would be taking place from the [[Training Grounds]] to the front lines. Some of these convoys would be decoys not actually containing cargo and while this was kept hidden from the transporters themselves, we were somewhat lead to believe we would be a decoy.
+We were informed by [[Commander Aedrik Thalor]] that multiple cargo runs would be taking place from the [[Vlane Outpost]] to the front lines. Some of these convoys would be decoys not actually containing cargo and while this was kept hidden from the transporters themselves, we were somewhat lead to believe we would be a decoy.
 
 Upon setting off, Khamoraz almost immediately tries to get into the crates but fails. 
 

@@ -6,7 +6,7 @@ Participants:
 - [[Brodie Uabhar]]
 - [[Fenwick Whimtree]]
 
-We start sesh in the [[Training Grounds]]
+We start sesh in the [[Vlane Outpost]]
 
 metria, paladins coming. 
 paladins and us going to religion. 

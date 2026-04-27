@@ -5,7 +5,7 @@ Participants:
 - [[Brodie Uabhar]]
 - [[Fenwick Whimtree]]
 
-We start of by waking up in the night in the [[Training Grounds]] to the sounds of a great commotion going on outside. Once we get outside of our barracks we see that the Training Grounds are under attack. We see a figure dressed in a black, [[Mysterious Figure]] ,running away from the scene and, despite our best efforts, we lose him in [[Auflen Forest]].
+We start of by waking up in the night in the [[Vlane Outpost]] to the sounds of a great commotion going on outside. Once we get outside of our barracks we see that the Training Grounds are under attack. We see a figure dressed in a black, [[Mysterious Figure]] ,running away from the scene and, despite our best efforts, we lose him in [[Auflen Forest]].
 
 In the morning, [[Commander Aedrik Thalor]] gives us the task of finding out more about last night's attack.
 

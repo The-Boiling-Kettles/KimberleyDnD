@@ -5,7 +5,7 @@ Participants:
 - [[Virk Sivra]]
 - [[Fenwick Whimtree]]
 
-We begin at [[Training Grounds]] where we undergo a combat test ordered my some fancy elf Noble in shiny armour.
+We begin at [[Vlane Outpost]] where we undergo a combat test ordered my some fancy elf Noble in shiny armour.
 
 We successfully complete the test as a group by defeating some animals (black bears, boars, wolves).
 

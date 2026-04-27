@@ -8,7 +8,7 @@ Participants:
 # Full Notes
 ## Writing the Report
 
-We start, at 2pm, at the command centre ruins and the wall of the [[Training Grounds]]. 
+We start, at 2pm, at the command centre ruins and the wall of the [[Vlane Outpost]]. 
 
 Brodie and Virk notice that there are still eyes on us (the clergy), perhaps a few more than before. 
 

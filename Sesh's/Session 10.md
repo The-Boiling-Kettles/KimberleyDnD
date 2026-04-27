@@ -100,6 +100,11 @@ We take long rest. The wolf corpses have been moved out of the way and into the 
 
 Auris stayed awake most of the night.
 
+The dire wolf and weasel disappear overnight but the 3 fuzzy balls are now all in the bag again.
+
+Brodie mourns the loss of his pets.
+
+
 
 
 
