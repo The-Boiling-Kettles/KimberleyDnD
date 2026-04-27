@@ -112,7 +112,7 @@ Khamoraz asks if Auris has seen a ledger recently.
 
 We head in the direction of Harufen to see the shrine for Vanim-Sael.
 
-Brodie opens the bag of tricks and spawns an elk and a panther. We send the panther to deliver a message to Aedrik. It reads as follows:
+Brodie opens the bag of tricks and spawns an elk (which he wants to keep with him) and a panther. We send the panther to deliver a message to Aedrik. It reads as follows:
 
 
 
