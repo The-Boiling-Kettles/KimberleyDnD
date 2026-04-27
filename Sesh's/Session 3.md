@@ -36,7 +36,7 @@ tent 1 - Box of (mainly scraps of) letters and bag coins (taken by azaia)
 
 tent 2 - maps of local area and journals
 - map of forest and surrounding are, outpost location is on map but outpost isnt on map, oakenhelm, harrowfen and and town is on it.
- - note on maps are in not-quite-elvish (Sylven) 4 large areas of text: -Ar-Tu'Lara, Vanim-Sael (close to harrowfen), Anim-Aerie, Ethe'Auris
+ - note on [[Bandit Camp Maps]] are in not-quite-elvish (Sylven) 4 large areas of text: - [[Ar-Tu'Lara]], [[Vanim-Sael]] (close to harrowfen), [[Anim-Aerie]], [[Ethe'Auris]]
   - Journals are a mess, all sorts in them, almost random stuff.
   - whenever maps are mentioned its the same handwriter, 1 main bandit.
   - big things on maps are nouns/places. likely places or maybe spirits.
