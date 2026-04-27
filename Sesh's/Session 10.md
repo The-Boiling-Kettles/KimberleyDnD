@@ -104,6 +104,9 @@ The dire wolf and weasel disappear overnight but the 3 fuzzy balls are now all i
 
 Brodie mourns the loss of his pets.
 
+We all say goodbye to Auris and Fenwick gives him a goodbye hug.
+
+As we leave, Virk and Fenwick notice h
 
 
 
