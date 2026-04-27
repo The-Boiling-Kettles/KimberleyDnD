@@ -75,7 +75,13 @@ Geoffrey: Thank you.
 
 Fenwick: May I just ask, what is Vanim-Sael the spirit of exactly?
 
-Auris:
+Auris: Plant culture
+
+We sleep.
+
+Brodie pulls out another fuzzy ball. A dire wolf appears out of the bag. Brodie starts giving the wolf belly rubs and starts doing tricks.
+
+Virk 
 
 
 
