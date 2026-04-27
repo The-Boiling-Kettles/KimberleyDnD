@@ -9,9 +9,9 @@ Participants:
 
 **Aftermath of The Wolf Massacre (feat. Father and Son chat)**
 
-Sesh begins where we left off, in the Auflen Forest, surrounded by dead wolves. The last remaining wolf scampered off northward.
+Sesh begins where we left off, in the [[Auflen Forest]], surrounded by dead wolves. The last remaining wolf scampered off northward.
 
-Virk approaches Remy, who is catching his breath.
+Virk approaches [[Remy Grin]], who is catching his breath.
 
 Virk: Remy, now you're down from your tree, what did you think of our fighting?
 
@@ -49,7 +49,7 @@ Remy: It's tricky. Hunting has been a key part of the area. The woods used to be
 
 **We're Going on a Shrine Hunt (Part 2)**
 
-We wake up and make our towards the large shrine, Ethe'Auris.
+We wake up and make our towards the large shrine, [[Ethe'Auris]].
 
 We decide to move stealthily once we get close to the shrine area. We manage to avoid all the larger branches as we move north-northwest through the forest. The area is very quiet once more (all rustling ceases as we approach).
  
@@ -118,7 +118,7 @@ Khamoraz: You've not always been like this have you?
 
 *The creature retracts at bit at Khamoraz's words an*
 
-Spirit: Others did this. Tall ones [Looking at the skeletons] and others, like me.
+Spirit: Others did this. Tall ones Looking at the skeletons and others, like me.
 
 *The creature seems visibly unhappy, frequently glancing back at the forest. Khamoraz backs off slightly and puts his hands in the air (like he don't care).*
 

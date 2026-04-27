@@ -9,13 +9,13 @@ Participants:
 
 
 **Exorcising the Spirit**
-We start where we left off, in the Auflen Forest, at the shrine of Ethe'Auris, with the "Spirit" having just betrayed us.
+We start where we left off, in the [[Auflen Forest]], at the shrine of [[Ethe'Auris]], with the "Spirit" having just betrayed us.
 
 Khamoraz notices a lot of rustling in the trees. There are other things approaching from all directions. We probably have about 4 rounds worth of time until the approaching sounds reach us. 
 
 Virk reflects and gives Brodie the help action.
 
-Remy has heard the sounds too and gives Azaia the help action.
+[[Remy Grin]] has heard the sounds too and gives Azaia the help action.
 
 Brodie moves towards the rest of us while staying out of range of the "spirit" for now
 
@@ -107,13 +107,13 @@ Spirit: This is our shrine.
 
 Khamoraz: A shrine to you?
 
-Spirit [gesturing towards the large tree]: Us. We are a pair. We... We are... What are we called? What was the last name we had? Ravnu? No. Ah, yes. I think the last time was Auris. Ethe'Auris, that is what we are. I am Auris the wolf spirit. A pleasure to meet you. Your not from here are you?
+Spirit gesturing towards the large tree: Us. We are a pair. We... We are... What are we called? What was the last name we had? [[Ravnu]]? No. Ah, yes. I think the last time was Auris. Ethe'Auris, that is what we are. I am Auris the wolf spirit. A pleasure to meet you. Your not from here are you?
 
 Khamoraz: I suppose not really.
 
 Auris: Sorry, it's slightly rude, I can tell, there is... How can I put it? Interference? Sorry, your name?
 
-Khamoraz: My name is Khamoraz the Ruthslayer [lists a load of titles].
+Khamoraz: My name is Khamoraz the Ruthslayer lists a load of titles.
 
 Auris: Ah, one of the mountain tribes if I remember correctly. 
 

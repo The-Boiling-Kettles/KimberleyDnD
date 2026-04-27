@@ -8,7 +8,7 @@ Participants:
 
 **Mexican Stand Off with Big Wolf-Lion "Spirit"**
 
-We start this session were we left off at the Ethe'Auris shrine, in the Auflen forest, in a stand off with the "Spirit", combat mode is engaged.
+We start this session were we left off at the [[Ethe'Auris]] shrine, in the [[Auflen Forest]], in a stand off with the "Spirit", combat mode is engaged.
 
 One of the spirit's eyes appears to be that of a wolf, the other of a lion. 40-50% of this creature is very lion-esque. There are some open wounds and scars all over this thing
 
@@ -74,7 +74,7 @@ Brodie uses "Shatter" to hit the remaining dire wolf and 2 regular wolves. He pu
 
 Azaia notices with her line of sight of the "spirit" that, as the spell goes off, the wolf parts of the creature regress. The lion eye then appears to be grinning. The lion parts of the creature begin to expand.
 
-The lion roars really loud. Khamoraz, Brodie, Geoffrey, Virk and Remy feel compelled to kneel. They kneel with one fist on the ground (superhero pose). Mechanically they are restrained/prone. 
+The lion roars really loud. Khamoraz, Brodie, Geoffrey, Virk and [[Remy Grin]] feel compelled to kneel. They kneel with one fist on the ground (superhero pose). Mechanically they are restrained/prone. 
 
 Geoffrey, in the process, falls from the roof directly onto his bottom. Ouch.
 
