@@ -107,7 +107,7 @@ Spirit: This is our shrine.
 
 Khamoraz: A shrine to you?
 
-Spirit gesturing towards the large tree: Us. We are a pair. We... We are... What are we called? What was the last name we had? [[Ravnu]]? No. Ah, yes. I think the last time was Auris. Ethe'Auris, that is what we are. I am Auris the wolf spirit. A pleasure to meet you. Your not from here are you?
+Spirit gesturing towards the large tree: Us. We are a pair. We... We are... What are we called? What was the last name we had? Ravnu? No. Ah, yes. I think the last time was Auris. Ethe'Auris, that is what we are. I am Auris the wolf spirit. A pleasure to meet you. Your not from here are you?
 
 Khamoraz: I suppose not really.
 

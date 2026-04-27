@@ -13,4 +13,4 @@ Auris:
 - Lion curse had red aura.
 - Regularly has green aura.
 
-Mentioned the name [[Ravnu]]
+Mentioned the name [[Ravnu]] in Session 9.

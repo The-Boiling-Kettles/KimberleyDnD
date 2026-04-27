@@ -180,8 +180,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "8919143af996697d",
+  "active": "70149ff1a0f9785c",
   "lastOpenFiles": [
+    "NPCs/Spirits/Ethe'Auris.md",
+    "Sesh's/Session 9.md",
+    "Locations/Auflen Forest/North Bandit Camp.md",
+    "Locations/Auflen Forest",
     "NPCs/Spirits/Vanim-Sael.md",
     "Sesh's/Session 3.md",
     "Sesh's/Session 2.md",
@@ -192,13 +196,11 @@
     "NPCs/Gods/Rashka.md",
     "Sesh's/Session 5.md",
     "Locations/Valtherian/Metria.md",
-    "NPCs/Spirits/Ethe'Auris.md",
     "NPCs/Spirits/Elway.md",
     "NPCs/Spirits/Ar-Tu'Lara.md",
     "NPCs/Spirits/Anim-Aerie.md",
     "Sesh's/Session 6.md",
     "NPCs/Important NPCs/Remy Grin.md",
-    "Sesh's/Session 9.md",
     "NPCs/Important NPCs/Commander Aedrik Thalor.md",
     "Sesh's/Session 1.9.md",
     "Sesh's/Session 1.5.md",
@@ -208,8 +210,6 @@
     "Sesh's/Session 8.md",
     "Sesh's/Session 7.md",
     "PCs/Brodie Uabhar.md",
-    "Locations/Mountain Range.md",
-    "PCs/Virk Sivra.md",
     "Items",
     "Untitled.canvas",
     "Locations/Raducanian",
@@ -217,7 +217,6 @@
     "Locations",
     "NPCs/Irrelevant NPCs",
     "NPCs/Minor NPCs",
-    "NPCs/Important NPCs",
-    "NPCs"
+    "NPCs/Important NPCs"
   ]
 }
