@@ -11,10 +11,14 @@
             "id": "70149ff1a0f9785c",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "type": "markdown",
+              "state": {
+                "file": "Sesh's/Session 4.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Session 4"
             }
           }
         ]
@@ -182,6 +186,7 @@
   },
   "active": "70149ff1a0f9785c",
   "lastOpenFiles": [
+    "Sesh's/Session 5.md",
     "Locations/Valtherian/Vlane Outpost.md",
     "Sesh's/Session 10.md",
     "Sesh's/Session 9.md",
@@ -204,7 +209,6 @@
     "Sesh's/Session 4.md",
     "NPCs/Important NPCs/Father Trevel.md",
     "NPCs/Gods/Rashka.md",
-    "Sesh's/Session 5.md",
     "NPCs/Spirits/Elway.md",
     "NPCs/Spirits/Ar-Tu'Lara.md",
     "NPCs/Spirits/Anim-Aerie.md",
