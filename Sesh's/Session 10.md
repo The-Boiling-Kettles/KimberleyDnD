@@ -108,6 +108,8 @@ We all say goodbye to Auris and Fenwick gives him a goodbye hug.
 
 As we leave, Virk and Fenwick notice the deep cuts in the engravings once more. Fenwick quickly asks Auris about them but he/she knows nothing.
 
+Khamoraz asks if Auris has seen a ledger recently.
+
 We head in the direction of Harufen to see the shrine for Vanim-Sael.
 
 
