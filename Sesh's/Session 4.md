@@ -121,7 +121,7 @@ Aedrik tells us that the investigation of the Ancient Pillars in the Auflen Fore
 
 Aedrik sends us back to our barracks while informing us that he will look into sending us out to investigate these Ancient Pillars.
 
-Azaia follows the trail to what was the command centre (but is now just ash). A line leads out of the camp, over one of the walls and another leads straight towards Aedrik. Azaia goes up some wooden stairs by the wall and sees the line goes down wall and out towards the main road, headed North-East. Same road that took us to Harufen and Oakenfield.
+Azaia follows the trail to what was the command centre (but is now just ash). A line leads out of the camp, over one of the walls and another leads straight towards Aedrik. Azaia goes up some wooden stairs by the wall and sees the line goes down wall and out across the main road straight towards Auflen Forest. Same road that took us to Harufen and Oakenfield.
 
 
 

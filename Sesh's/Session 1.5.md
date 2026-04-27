@@ -20,7 +20,7 @@ We continue on our journey and after travelling for an hour or so into some fore
 
 We manage to just about fight off all the enemies (even though some of them ambushed us with bows and arrows from the sides). [[Oric Halloway]] fights particularly valiantly before being downed right at the end (still MVP though).
 
-We then make the final leg of the trip to the [[Camp Oakenfield]] (rocking up with a cart that looks like a hedgehog from all of the arrows in it). We hang out at the camp for a bit before heading back "home" to the Training Grounds.
+We then make the final leg of the trip to the [[Camp Oakenhelm]] (rocking up with a cart that looks like a hedgehog from all of the arrows in it). We hang out at the camp for a bit before heading back "home" to the Training Grounds.
 
 
 
