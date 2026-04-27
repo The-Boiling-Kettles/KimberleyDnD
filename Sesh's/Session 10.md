@@ -45,6 +45,36 @@ Auris:
 
 Virk goes to look at the knives. He unfurls the (heavily worn) leather and sees a set of knives and peeling instruments (similar to the pelting and leatherworking tools used by Khamoraz). The ergonomic design of these tools are immaculate. Despite their apparent ages the tools are in mint condition (blades still very sharp).
 
+Auris steps back towards the cave.
+
+Auris: 
+
+Geoffrey:
+
+
+
+Auris: I am aware of my kin, yes. I do still sense them, even if they are lacking somewhat?
+
+Geoffrey: Along with this location and the one we were previously at, we found via a map. Vanim-Sael.
+
+Auris: Vanim-Sael is another 
+
+Geoffrey: We 
+
+AurisL Yes, Vanim-Sael is one of our kin. The energy is still there, yes.
+
+Geoffrey: Dangerous?
+
+Auris:
+
+Geoffrey:
+
+Auris:
+
+Geoffrey: Thank you.
+
+
+
 
 
 
