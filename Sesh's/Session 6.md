@@ -7,7 +7,7 @@ Participants:
 
 # Full Notes
 **Azaia Returns**
-We awake at the [[Auflen Forest]] in the clearing by the first shrine (Elway). 
+We awake at the [[Auflen Forest]] in the clearing by the first shrine ([[Elway]]). 
 
 Khamoraz notices indentations where the text on the wooden box is (as if it was scratched on).
 
