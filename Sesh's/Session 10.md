@@ -29,7 +29,17 @@ Up to 5 berries appear in the pouch at sunrise and are infused with magic. A cre
 
 The magic berries lose their potency after 6 hours outside of the pouch.
 
-Geoffrey looks at grey pouch. There is seemingly nothing in it. He reaches his hand in and suddenly there are 3 furry balls.
+Geoffrey looks at grey pouch. There is seemingly nothing in it. He reaches his hand in and suddenly there are 3 furry balls. Geoffrey pulls a ball out and a suddenly there is a weasel in his hand. He tries to stuff the weasel back into the pouch and it doesn't change.
+
+Geoffrey gives the weasel to Brodie. It clambers onto Brodie, looking back at Geoffrey frequently.
+
+Geoffrey: Why did you give me a bag of rats?
+
+Auris: I see the trick haven't been popular, for a while. The weasel seems to favour you this time.
+
+*Auris chuckles at Geoffrey's reaction to the *
+
+Geoffrey: I have heard of rabbits coming out of a hat but not weasels out of a bag.
 
 
 
