@@ -112,6 +112,8 @@ Khamoraz asks if Auris has seen a ledger recently.
 
 We head in the direction of Harufen to see the shrine for Vanim-Sael.
 
+Brodie 
+
 
 
 
