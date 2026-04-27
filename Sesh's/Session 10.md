@@ -23,7 +23,13 @@ Khamoraz recognises it as a vial for blood. A spellcaster could put their blood 
 
 Blood well vial.
 
-The green puch is very light.
+The green pouch is very light. As Fenwick loosens the tether, he sees 5 red berries. Fenwick knows that druids can conjure good berries that can satiate a person for a whole day.
+
+Up to 5 berries appear in the pouch at sunrise and are infused with magic. A creature can use its action to eat 1 berry. Eating a berry restores 1 hit point, and the berry provides enough nourishment to sustain a creature for one day.
+
+The magic berries lose their potency after 6 hours outside of the pouch.
+
+Geoffrey looks at grey pouch. There is seemingly nothing in it. He reaches his hand in and suddenly there are 3 furry balls.
 
 
 
