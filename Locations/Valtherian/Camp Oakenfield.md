@@ -1,0 +1,1 @@
+Located in [[Kingdom of Valtheris]]

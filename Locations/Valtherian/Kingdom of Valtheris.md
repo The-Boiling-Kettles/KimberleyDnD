@@ -1,7 +1,7 @@
 # Geographic Location
 Borders [[Concord of Raducan]] and has [[Mountain Range]] to the east of said border.
 # Points of Interest
-## [[Training Grounds]]
+Training Grounds
 
 # Key features
 ## Religion
