@@ -21,7 +21,7 @@ Geoffrey knows what can be used to empower magically inate people. The ash seems
 
 Khamoraz recognises it as a vial for blood. A spellcaster could put their blood in it (their essence).
 
-Blood well vial.
+Blood well vial. Azaia is given this.
 
 The green pouch is very light. As Fenwick loosens the tether, he sees 5 red berries. Fenwick knows that druids can conjure good berries that can satiate a person for a whole day.
 
@@ -91,7 +91,16 @@ Virk: I am just wondering
 
 Khamoraz: 
 
-Khamoraz: Spirit
+Khamoraz: Spirit. 
+
+Auris: 
+
+
+We take long rest. The wolf corpses have been moved out of the way and into the tree line but not discarded.
+
+Auris stayed awake most of the night.
+
+
 
 
 
