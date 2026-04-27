@@ -25,7 +25,7 @@ Geoffrey knocks on table to show we are in the room. The High Priest says he is 
 
 Fenwick and Brodie notice that the High Priest is infuriated that his position of power has been disregarded by this mild act of defiance. We also notice moments of hesitation in his thought process indicating that he is replanning his interrogation knowing that Brodie is now accompanied in the room (but there are 6 chairs, why is he surprised?). Nevertheless, the High Priest allows us to remain in the room with Brodie. 
 
-The High Priest talks to Cleric behind him and Virk notices the cleric closes his eyes and mumbles (he is clearly casting a spell). The High Priest collects himself and properly introduces himself as [[Father Trevel]] of ([[Vlane]]). He has been here (at this camp or acting within it and surrounding areas) on and off for 7 years. 
+The High Priest talks to Cleric behind him and Virk notices the cleric closes his eyes and mumbles (he is clearly casting a spell). The High Priest collects himself and properly introduces himself as [[Father Trevel]] of Vlane. He has been here (at this camp or acting within it and surrounding areas) on and off for 7 years. 
 
 He then asks who we all are. There is a slight look of disdain on the High Priest's face when the East mountains are mentioned and the nobility of them, when Khamoraz introduces himself. The High Priest knows the Whimtree name but also makes it obvious that he has a lack of respect for the name. Azaia only introduces herself with first name but is not prompted for a last name and proceeds to hide behind Khamoraz. Brodie introduces himself as the Messiah. There is a release of energy as Priest writes final name on the paper (noticed only by the Arcane attuned among us). 
 
