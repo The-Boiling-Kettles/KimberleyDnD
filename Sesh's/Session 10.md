@@ -37,9 +37,17 @@ Geoffrey: Why did you give me a bag of rats?
 
 Auris: I see the trick haven't been popular, for a while. The weasel seems to favour you this time.
 
-*Auris chuckles at Geoffrey's reaction to the *
+*Auris chuckles at Geoffrey's reaction to the bag.*
 
 Geoffrey: I have heard of rabbits coming out of a hat but not weasels out of a bag.
+
+Auris:
+
+Virk goes to look at the knives. He unfurls the (heavily worn) leather and sees a set of knives and peeling instruments (similar to the pelting and leatherworking tools used by Khamoraz). The ergonomic design of these tools are immaculate. Despite their apparent ages the tools are in mint condition (blades still very sharp).
+
+
+
+
 
 
 
