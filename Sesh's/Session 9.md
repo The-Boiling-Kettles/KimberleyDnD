@@ -143,7 +143,7 @@ Auris: Yes, one in my domain. How aware are you of spirits?
 
 Khamoraz: I know a lot about spirits. The dwarven realms have quite a relationship with them.
 
-Auris: Of course. Well, these forests, and the surrounding areas, are governed by spirits, in a way. As I'm sure you're aware, we take on a particular aspect of our God. Havron is ours. We govern our aspect of our God in this region. I am not exactly a major spirit but I'm not as minor a spirit as Elway.
+Auris: Of course. Well, these forests, and the surrounding areas, are governed by spirits, in a way. As I'm sure you're aware, we take on a particular aspect of our God. [[Havron]] is ours. We govern our aspect of our God in this region. I am not exactly a major spirit but I'm not as minor a spirit as Elway.
 
 Khamoraz: We actually didn't meet Elway, there was no one at the shrine. Do you know anything about that?
 
