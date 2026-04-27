@@ -226,7 +226,7 @@ There are some bowls, seeds, symbols made of twigs around the box. Fenwick knock
 
 We set up camp in this mini-clearing.
 
-This shrine is ded
+This shrine is dedicated to the spirit [[Elway]]
 
 
 # Condensed
