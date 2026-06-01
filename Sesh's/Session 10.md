@@ -10,7 +10,7 @@ Participants:
 We start where we left off, in the Auflen Forest, at the shrine of Ethe'Auris, with the Auris having just gone to retrieve his reward
 
 
-**A funny conversation*
+**A funny conversation**
 
 Brodie: It was a fluffy creature.
 
@@ -164,16 +164,27 @@ As we leave, Virk and Fenwick notice the deep cuts in the engravings once more. 
 
 Khamoraz asks if Auris has seen a ledger recently. He has not.
 
-We head in the direction of Harufen to see the shrine for Vanim-Sael.
+We decide to head in the direction of Harufen to see the shrine for Vanim-Sael.
+
+**Message in a Bottle (vial)**
 
 Brodie opens the bag of tricks and spawns an elk (which he wants to keep with him) and a panther. We send the panther to deliver a message to Aedrik. It reads as follows:
 
-"Elway, Ethe'Auris cleared. Spirit Ledger North West of Ethe'Auris, we shall follow. Birchcuf headed. Geoffrey"
+"Elway, Ethe'Auris cleared. 
+Spirit Ledger North West of Ethe'Auris, we shall follow. 
+Birchcuf headed. 
+Geoffrey xoxo"
 
 
 # Condensed Notes
 
+**The beginnings of Virdie (The Virk and Brodie Bromance)**
+- Brodie says he bases his opinions on things via appearance and touch.
+- Virk finds this baffling.
+- They touch eachother.
 
+**Special Treasures for Special People**
+- 
 
 
 
