@@ -215,3 +215,13 @@ Half-elf:
 
 Virk cares about doors. Doorways must be kept in goo condition.
 
+
+
+Barman: Arlo over there is one of our finest
+
+Khamoraz: Excellent.
+
+*Khamoraz wanders over to this guy. Khamoraz feels as though he is being watched by someone.*
+
+
+
