@@ -5,7 +5,7 @@ Participants:
 - [[Brodie Uabhar]]
 - [[Fenwick Whimtree]]
 
-We start off on in the Auflen Forest on our way to the shrine of Vanim-Sael.
+We start off on in the Auflen Forest on our way to Birchcuf to search for the Spirit Ledger.
 
 Birchcuf is a larger town than Harrowfen. They are known for trading sheep. It is mostly a way through for most of the duchy to get to the frontlines.
 
