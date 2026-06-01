@@ -35,4 +35,5 @@ Geoffrey [mumbling]: This is why I don't work with dwarves.
 
 Geoffrey: 
 
-Remy: 
+Remy: Yeah, if its okay, I'll stay with you guys.
+
