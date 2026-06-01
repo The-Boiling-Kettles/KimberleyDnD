@@ -9,7 +9,6 @@ Participants:
 
 We start where we left off, in the Auflen Forest, at the shrine of Ethe'Auris, with the Auris having just gone to retrieve his reward
 
-
 **A funny conversation**
 
 Brodie: It was a fluffy creature.
@@ -178,6 +177,7 @@ Geoffrey xoxo"
 
 # Condensed Notes
 
+We start with Auris (the spirit) having just gone to fetch us some rewards.
 **The beginnings of Virdie (The Virk and Brodie Bromance)**
 - Brodie says he bases his opinions on things via appearance and touch.
 - Virk finds this baffling.
@@ -192,7 +192,18 @@ Geoffrey xoxo"
     - Currently in Brodie's possession
   - A Bloodwell vial with ash in it. 
     - Currently in Azaia's possession.
-  - A knife set ()
+  - A set of knives and peeling instruments (old but in mint condition).
+    - Can be used for leatherworking.
+    - Currently in Virk's possession.
+- Brodie is proficient in taking clothes (armour) off.
+
+**Asking after Vanim-Sael**
+- Auris still senses Vanim-Sael's energy.
+
+**Saying goodbye**
+- We stay at the shrine overnight.
+- Brodie gets a wolf from the animal pouch and it disappears overnight (along with the weasel that Geoffrey summoned).
+- We 
 
 
 
