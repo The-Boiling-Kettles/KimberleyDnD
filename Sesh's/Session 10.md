@@ -199,13 +199,21 @@ We start with Auris (the spirit) having just gone to fetch us some rewards.
 
 **Asking after Vanim-Sael**
 - Auris still senses Vanim-Sael's energy.
+- Vanim-Sael is spirit of agriculture, farming and plant growth.
 
 **Saying goodbye**
 - We stay at the shrine overnight.
 - Brodie gets a wolf from the animal pouch and it disappears overnight (along with the weasel that Geoffrey summoned).
-- We 
+- We say goodbye to Auris and head towards Vanim-Sael (in direction of Birchcuf).
 
-
+**Message in a ~~Bottle~~ Vial** 
+- We decide to send a message to Aedrik to inform him of our movements.
+- We write the following note
+"Elway, Ethe'Auris cleared. 
+Spirit Ledger North West of Ethe'Auris, we shall follow. 
+Birchcuf headed. 
+Geoffrey *xoxo*"
+- We then attach this to a panther that Brodie summoned from the bag of tricks (he also summoned an elk).
 
 
 
