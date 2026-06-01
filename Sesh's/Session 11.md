@@ -275,6 +275,8 @@ Geoffrey walks up a bit closer, near the front door. He can here some murmuring.
 
 He knocks on the door and there is no response. He knocks again.
 
+The town is quiet in the early hours of the mornin. Slightly quieter than would be expected. There grain business and wool and woven industry. There is some activity around some the warehouses. Fenwick notices some more murmuring from some of the more outskirts housing. In the very early minutes 
+
 
 
 
