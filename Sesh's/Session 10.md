@@ -140,11 +140,7 @@ We are told above board, that if we spend enough time learning about how to "lea
 
 We are told that Brodie is proficient in taking clothes off (putting armour on and taking it off). 
 
-
 Khamoraz: Spirit. If you relocate to the mountains, I'm sure the dwarves,  especially the ones closer to the coast, will welcome you.
-
-Auris: 
-
 
 We take long rest. The wolf corpses have been moved out of the way and into the tree line but not discarded.
 
@@ -156,9 +152,9 @@ Brodie mourns the loss of his pets.
 
 We all say goodbye to Auris and Fenwick gives him a goodbye hug.
 
-As we leave, Virk and Fenwick notice the deep cuts in the engravings once more. Fenwick quickly asks Auris about them but he/she knows nothing.
+As we leave, Virk and Fenwick notice the deep cuts in the engravings once more. Fenwick quickly asks Auris about them but he/she knows nothing (they were there before the cloaked figures).
 
-Khamoraz asks if Auris has seen a ledger recently.
+Khamoraz asks if Auris has seen a ledger recently. He has not.
 
 We head in the direction of Harufen to see the shrine for Vanim-Sael.
 
