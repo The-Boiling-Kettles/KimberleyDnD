@@ -82,3 +82,9 @@ Guards: Yes, sir.
 We can here some cheering and a handful of noises from taverns around the town.
 
 There are 3 taverns. One near us. One in the centre. One middling.
+
+We had north towards the middling tavern. 
+
+The houses around the outskirts of the town have seen better days but, most of the houses around town seem quite nice.
+
+Mostly stone houses on the outskirts. More wooden houses towards the centre.
