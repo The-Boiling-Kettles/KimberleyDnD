@@ -184,7 +184,15 @@ Geoffrey xoxo"
 - They touch eachother.
 
 **Special Treasures for Special People**
-- 
+- Auris gives us 4 special treasures as a thank you:
+  - A green pouch with 5 Goodberries.
+    - Currently in Fenwick's possession.
+  - A grey pouch (the bag of tricks) with 3 furry balls.
+    - When taken out of the pouch, the balls turn into animals. 
+    - Currently in Brodie's possession
+  - A Bloodwell vial with ash in it. 
+    - Currently in Azaia's possession.
+  - A knife set ()
 
 
 
