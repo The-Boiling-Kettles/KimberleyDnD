@@ -54,11 +54,11 @@ Brodie touches Virk's chest.
 
 Auris emerges from the cave by the tree with a bundle of leather in his mouth which he releases to the ground. 
 
-Auris [speaking to all of us]: Thank you for what you have done here. These are precious mementos which have served myself and Ethe in bygone years. But over what has just happened, I feel we must relocate and set down roots somewhere else.
+Auris [speaking to all of us]: Thank you for what you have done here. These are precious mementos which have served myself and Ethe in bygone years. But with what has just happened, I feel we must relocate and set down roots somewhere else.
 
-On the ground are two leather satchels (one green, one grey), a knife set and a vial on a chain containing ash.
+On the ground are two leather satchels (one green, one grey), some kind of a knife set and a vial on a chain containing ash.
 
-Geoffrey knows what can be used to empower magically inate people. The ash seems to be a vial that would be described by the church as a vessel which spellcasters could put their magic into.
+Geoffrey knows what can be used to empower magically casters. The ash seems to be a vial that would be described by the church as a vessel which spellcasters could put their magic into.
 
 Khamoraz recognises it as a vial for blood. A spellcaster could put their blood in it (their essence).
 
