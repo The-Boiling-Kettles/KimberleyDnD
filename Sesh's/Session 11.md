@@ -37,6 +37,7 @@ Geoffrey:
 
 Remy: Yeah, if its okay, I'll stay with you guys.
 
+We arrive at Birchcuf at around 21:00.
 
 Birchcuf is a walled in town. We could go round the gates but we would be going round rivers and bog.
 
@@ -56,4 +57,28 @@ Guards: What business do you have in our
 
 Geoffrey: We
 
-*The guards is clearing startled by the mentioning of a large outpost. *
+*The guards is clearing startled by the mentioning of a large outpost. There is a slight of concern between the two guards.*
+
+Guards: Oh, Vlane. What 
+
+Geoffrey: For now just passing through.
+
+Guards: Right.
+
+*There is clearly a look of concern at the mentioning of staying the night.*
+
+Guards: Well, we certainly don't want to hinder
+
+Geoffrey: Thank you.
+
+*Geoffrey smells liquor on their breaths as we pass.*
+
+Geoffrey: No more drinking on the job.
+
+Guards: Yes, sir.
+
+*They stand up taller than before.*
+
+We can here some cheering and a handful of noises from taverns around the town.
+
+There are 3 taverns. One near us. One in the centre. One middling.
