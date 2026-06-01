@@ -88,3 +88,7 @@ We had north towards the middling tavern.
 The houses around the outskirts of the town have seen better days but, most of the houses around town seem quite nice.
 
 Mostly stone houses on the outskirts. More wooden houses towards the centre.
+
+Barrel and Pole Inn. Nice building. Tudor-esque. 3 floors (including ground floor).
+
+Sticky floor. Nice solid wood tables. Jovial mix of humans, elves, dwarves and spattering of tieflings. There is a gruff looking barman telling drunk people to go home.
