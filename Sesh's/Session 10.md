@@ -10,7 +10,7 @@ Participants:
 We start where we left off, in the Auflen Forest, at the shrine of Ethe'Auris, with the Auris having just gone to retrieve his reward
 
 
-**A funny conversation*8
+**A funny conversation*
 
 Brodie: It was a fluffy creature.
 
@@ -52,6 +52,8 @@ Virk touches Brodie up. Brodie feels soft to touch.
 
 Brodie touches Virk's chest.
 
+**Special Treasures for Special People**
+
 Auris emerges from the cave by the tree with a bundle of leather in his mouth which he releases to the ground. 
 
 Auris [speaking to all of us]: Thank you for what you have done here. These are precious mementos which have served myself and Ethe in bygone years. But with what has just happened, I feel we must relocate and set down roots somewhere else.
@@ -87,6 +89,8 @@ Auris: Well, it is not just weasels but, hopefully this will be a boon to yourse
 Virk goes to look at the knives. He unfurls the (heavily worn) leather and sees a set of knives and peeling instruments (similar to the pelting and leatherworking tools used by Khamoraz). The ergonomic design of these tools are immaculate. Despite their apparent age the tools are in mint condition (blades still very sharp).
 
 Auris steps back towards the cave.
+
+**Asking after Vanim-Sael**
 
 Auris: Thank you for what you've done here and I hope these treasures, old as they may be, might serve you well in your goings on. 
 
@@ -124,6 +128,8 @@ Auris: Vanim-Sael is one of agriculture, farming and plant growth.
 
 We sleep.
 
+**Sleepy Time**
+
 Brodie pulls out another fuzzy ball. A dire wolf appears out of the bag. Brodie starts giving the wolf belly rubs and starts doing tricks.
 
 Virk approaches Khamoraz.
@@ -140,13 +146,15 @@ We are told above board, that if we spend enough time learning about how to "lea
 
 We are told that Brodie is proficient in taking clothes off (putting armour on and taking it off). 
 
-Khamoraz: Spirit. If you relocate to the mountains, I'm sure the dwarves,  especially the ones closer to the coast, will welcome you.
+Khamoraz: Spirit. If you relocate to the mountains, I'm sure the dwarves, especially the ones closer to the coast, will welcome you.
 
 We take long rest. The wolf corpses have been moved out of the way and into the tree line but not discarded.
 
 Auris stayed awake most of the night.
 
 The dire wolf and weasel disappear overnight but the 3 fuzzy balls are now all in the bag again.
+
+**Saying Goodbye**
 
 Brodie mourns the loss of his pets.
 
@@ -160,7 +168,7 @@ We head in the direction of Harufen to see the shrine for Vanim-Sael.
 
 Brodie opens the bag of tricks and spawns an elk (which he wants to keep with him) and a panther. We send the panther to deliver a message to Aedrik. It reads as follows:
 
-"Elway, Ethe'Auris cleared. Spirit Ledger North West of Ethe'Auris. Birchcuf headed. Geoffrey"
+"Elway, Ethe'Auris cleared. Spirit Ledger North West of Ethe'Auris, we shall follow. Birchcuf headed. Geoffrey"
 
 
 # Condensed Notes
