@@ -155,3 +155,4 @@ Brodie:
 
 Barman:
 
+Brodie uses up another quarter of the can of grease.
