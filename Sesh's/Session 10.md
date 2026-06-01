@@ -134,11 +134,14 @@ Khamoraz: Are you asking for training?
 
 Virk: I am just wondering, if you had them, how would you leather? Gooder? Or worser?
 
-*Virk is a bit sleepy.*
+*Virk is a bit sleepy. He gives up on the conversation.*
 
-Khamoraz: 
+We are told above board, that if we spend enough time learning about how to "leather", we may be granted proficiency with them.
 
-Khamoraz: Spirit. 
+We are told that Brodie is proficient in taking clothes off (putting armour on and taking it off). 
+
+
+Khamoraz: Spirit. If you relocate to the mountains, I'm sure the dwarves,  especially the ones closer to the coast, will welcome you.
 
 Auris: 
 
