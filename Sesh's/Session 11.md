@@ -223,5 +223,29 @@ Khamoraz: Excellent.
 
 *Khamoraz wanders over to this guy. Khamoraz feels as though he is being watched by someone.*
 
+Khamoraz: Ayup Arlo, I heard you're a person of interest around here.
+
+Arlo: Ah
+
+*Looks over to the barman*
+
+Khamoraz: Let's go with information. Any 
+
+Arlo: Uh, not much from our end. Birchcuf is a quiet little town, we keep to ourselves really. Nothing too remarkable really. What about you, what are you doing in these parts?
+
+Khamoraz: I'm not really sure how much I'm at liberty to say, really. There are these people I've seen the traces of, robe wearing with some kind of sylvan connection.
+
+Arlo: You know, nothing really comes to mind.
+
+*Khamoraz*
+
+Khamoraz:
+
+Arlo: Yeah, actually, we do have a people pass through here a fair amount.
+
+
+
+
+
 
 
