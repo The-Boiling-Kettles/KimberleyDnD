@@ -267,6 +267,14 @@ Khamoraz:
 
 Arlo: Nah, not that I can tell.
 
+Geoffrey makes his way towards the guards barracks building.
+
+There are no guards outside. The banners seem in tatters. Far below military standard, they should have been replaced months if not years ago. The guards armour at the gates looked very well out together and their spears looked shiny and relatively new.
+
+Geoffrey walks up a bit closer, near the front door. He can here some murmuring.
+
+He knocks on the door and there is no response. He knocks again.
+
 
 
 
