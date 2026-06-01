@@ -88,35 +88,39 @@ Virk goes to look at the knives. He unfurls the (heavily worn) leather and sees 
 
 Auris steps back towards the cave.
 
-Auris: Thank you for what you've done here and I hope these treasure 
+Auris: Thank you for what you've done here and I hope these treasures, old as they may be, might serve you well in your goings on. 
 
-Geoffrey:
+Geoffrey: Thank you for the gifts.
 
+Auris: Is there anything else that you need from me.
 
+Geoffrey: Do you know the way to others like you, from here?
 
-Auris: I am aware of my kin, yes. I do still sense them, even if they are lacking somewhat?
+*Auris sniffs at the air.*
 
-Geoffrey: Along with this location and the one we were previously at, we found via a map. Vanim-Sael.
+Auris: I am aware of my kin, yes. I do still sense them, even if they are lacking somewhat. Why do you ask?
 
-Auris: Vanim-Sael is another 
+Geoffrey: Along with this location and the one we were previously at, which we found via a map. There is a name Vanim-Sael.
 
-Geoffrey: We 
+Auris: Vanim-Sael is another one of the spirits of Havron. Why has something happened?
 
-AurisL Yes, Vanim-Sael is one of our kin. The energy is still there, yes.
+Geoffrey: I shouldn't expect so, we were given the maps and tasked with checking what was at these locations.
+
+Auris: Yes, Vanim-Sael is one of our kin. Their energy is still there, yes.
 
 Geoffrey: Dangerous?
 
-Auris:
+Auris: I mean, we are all dangerous in our own ways and Vanim does have power, yes.
 
-Geoffrey:
+Geoffrey: One more thing, will this be a safe place to stay a night?
 
-Auris:
+Auris: Yes, of course, me and Ethe will make sure to look after you in the night.
 
 Geoffrey: Thank you.
 
 Fenwick: May I just ask, what is Vanim-Sael the spirit of exactly?
 
-Auris: Plant culture
+Auris: He is the spirit of plant culture.
 
 We sleep.
 
