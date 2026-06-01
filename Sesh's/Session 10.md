@@ -76,19 +76,19 @@ Geoffrey gives the weasel to Brodie. It clambers onto Brodie, looking back at Ge
 
 Geoffrey: Why did you give me a bag of rats?
 
-Auris: I see the trick haven't been popular, for a while. The weasel seems to favour you this time.
+Auris: I see the tricks haven't been popular for a while. This is an ally for yourselves to utilise as needed. I hope they will serve you well. They can take many forms but the weasel seems to have favoured you this time.
 
 *Auris chuckles at Geoffrey's reaction to the bag.*
 
 Geoffrey: I have heard of rabbits coming out of a hat but not weasels out of a bag.
 
-Auris:
+Auris: Well, it is not just weasels but, hopefully this will be a boon to yourselves that you will find good use for in trying times ahead.
 
-Virk goes to look at the knives. He unfurls the (heavily worn) leather and sees a set of knives and peeling instruments (similar to the pelting and leatherworking tools used by Khamoraz). The ergonomic design of these tools are immaculate. Despite their apparent ages the tools are in mint condition (blades still very sharp).
+Virk goes to look at the knives. He unfurls the (heavily worn) leather and sees a set of knives and peeling instruments (similar to the pelting and leatherworking tools used by Khamoraz). The ergonomic design of these tools are immaculate. Despite their apparent age the tools are in mint condition (blades still very sharp).
 
 Auris steps back towards the cave.
 
-Auris: 
+Auris: Thank you for what you've done here and I hope these treasure 
 
 Geoffrey:
 
