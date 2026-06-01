@@ -277,6 +277,8 @@ He knocks on the door and there is no response. He knocks again.
 
 The town is quiet in the early hours of the mornin. Slightly quieter than would be expected. There grain business and wool and woven industry. There is some activity around some the warehouses. Fenwick notices some more murmuring from some of the more outskirts housing. In the very early minutes 
 
+Fenwick helps at bakery. The flour and bread is very high quality. He works until about 7:30 and the baker gives him a loaf a bread before he leaves as a thank you.
+
 
 
 
