@@ -5,9 +5,11 @@ Participants:
 - [[Brodie Uabhar]]
 - [[Fenwick Whimtree]]
 
+# Full Notes
+
 We start where we left off, in the Auflen Forest, at the shrine of Ethe'Auris, with the Auris having just gone to retrieve his reward
 
-Virk touches Brodie up.
+Virk touches Brodie up. Brodie feels soft to touch.
 
 Brodie touches Virk's chest.
 
@@ -119,7 +121,7 @@ Brodie opens the bag of tricks and spawns an elk (which he wants to keep with hi
 Birchcuf
 
 
-
+# Condensed Notes
 
 
 
