@@ -92,3 +92,17 @@ Mostly stone houses on the outskirts. More wooden houses towards the centre.
 Barrel and Pole Inn. Nice building. Tudor-esque. 3 floors (including ground floor).
 
 Sticky floor. Nice solid wood tables. Jovial mix of humans, elves, dwarves and spattering of tieflings. There is a gruff looking barman telling drunk people to go home.
+
+Virk sees there is some cheap grog, ale, wine and some tankards filled with a yellowy drink that some people seem to be drinking.
+
+Virk likes to have a good drink on a day off.
+
+Single bed rooms 2 silver
+
+Double 3 silver
+
+Bunking with four is about 5 silver
+
+
+
+Geoffrey:
