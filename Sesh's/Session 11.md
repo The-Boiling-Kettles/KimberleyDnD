@@ -180,5 +180,16 @@ Brodie: Okay, that is fine by me. I have a plan.
 Barman: Okay, I will give you 10 minutes.
 
 Brodie's plan:
-- Push the elk fro
+- Brodie casts unseen servant to push the elk from outside.
+- Use his bagpipes to wrap round the elk's antlers to pull it in.
+
+The bagpipes slip off the elk.
+
+The half-elf comes over.
+
+Half-elf:
+
+Brodie: Fine, I'll just go buy some booze.
+
+
 
