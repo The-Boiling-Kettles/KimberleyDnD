@@ -241,7 +241,31 @@ Arlo: You know, nothing really comes to mind.
 
 Khamoraz:
 
-Arlo: Yeah, actually, we do have a people pass through here a fair amount.
+Arlo: Yeah, actually, we do have a people pass through here a fair amount. I might have seen 
+
+Khamoraz:
+
+Arlo: Well a gift is a gift. We had a few people come through. We sell wares here in Birchcuf.
+
+Khamoraz: The things they bought, just supplies I presume?
+
+Arlo:
+
+Khamoraz: 
+
+Arlo:
+
+Khamoraz:
+
+Arlo:
+
+Khamoraz: Well, I was hoping to have a beautiful friendship but I understand. 
+
+Arlo: Well, perhaps there are other ways you might be able to pay me. Perhaps you could help me out with some services.
+
+Khamoraz:
+
+Arlo: Nah, not that I can tell.
 
 
 
