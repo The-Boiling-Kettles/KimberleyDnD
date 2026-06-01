@@ -113,4 +113,45 @@ Geoffrey:
 
 As Geoffrey is leaving, he notices 3 people by the corner of the bar that are trying to hide that they are watching him.
 
-Brodie finds an entrance to the cellar round the side of the inn. Brodie open
+Brodie finds an entrance to the cellar round the side of the inn. Brodie opens the wooden hatch to the cellar and feels a trace of something being broken. He tries to fit the elk down into the cellar but it keeps getting stuck.
+
+Brodie goes back round the front, into the tavern and walks up to the barman and looks him dead in the eye.
+
+Brodie: Do you have any lube?
+
+Barman
+
+Barman:
+
+Brodie: I need to grease up my elk.
+
+Barman: Is the a new term or something?
+
+Half-elf: Honestly, I have no idea.
+
+Barman: Well, you know what, keep it.
+
+Brodie: Hell yeah, thank you very much.
+
+Barman:
+
+Brodie: Once I'm done greasing my elk
+
+Barman:
+
+Brodie: Have I?
+
+Barman:
+
+Brodie: Mi
+
+Barman:
+
+Brodie: Lasagne (said like the pasta), yeah.
+
+Barman:
+
+Brodie:
+
+Barman:
+
