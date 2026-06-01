@@ -9,6 +9,23 @@ Participants:
 
 We start where we left off, in the Auflen Forest, at the shrine of Ethe'Auris, with the Auris having just gone to retrieve his reward
 
+
+**A funny conversation*8
+
+Brodie: It was a fluffy creature.
+
+Geoffrey: You're underestimating the creature we just met, Brodie.
+
+Brodie: Nah, I think you're way overestimating it.
+
+Virk: You just like the texture. But there is way more too it than just texture. Just because something is fluffy, you know... What if I just touched you and said "Oh, you're soft so that's all you are." What if I portrayed you only from the touch of you're skin. Do you want me to come over and touch you? Is that what you want me to do?
+
+Brodie: Yes, I do. Do that right now. I dare you. I will pay you.
+
+Virk: I will come over and touch you then. You want to know how you feel like? You feel a bit soft to touch.
+
+Brodie: 
+
 Virk touches Brodie up. Brodie feels soft to touch.
 
 Brodie touches Virk's chest.
