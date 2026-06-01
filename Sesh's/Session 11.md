@@ -37,3 +37,23 @@ Geoffrey:
 
 Remy: Yeah, if its okay, I'll stay with you guys.
 
+
+Birchcuf is a walled in town. We could go round the gates but we would be going round rivers and bog.
+
+We decide to approach the gate manned by two guards.
+
+Guards are woken up by the sound of our clinking armour and hooves clopping.
+
+Guards: 
+
+Geoffrey:
+
+Guards: Uh yeah, have you been here before?
+
+Geoffrey: 
+
+Guards: What business do you have in our
+
+Geoffrey: We
+
+*The guards is clearing startled by the mentioning of a large outpost. *
