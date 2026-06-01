@@ -120,7 +120,7 @@ Geoffrey: Thank you.
 
 Fenwick: May I just ask, what is Vanim-Sael the spirit of exactly?
 
-Auris: He is the spirit of plant culture.
+Auris: Vanim-Sael is one of agriculture, farming and plant growth. 
 
 We sleep.
 
@@ -128,11 +128,13 @@ Brodie pulls out another fuzzy ball. A dire wolf appears out of the bag. Brodie 
 
 Virk approaches Khamoraz.
 
-Virk: With these knives how good 
+Virk: With these knives how good do you think you could leather?
 
-Khamoraz:
+Khamoraz: Are you asking for training?
 
-Virk: I am just wondering
+Virk: I am just wondering, if you had them, how would you leather? Gooder? Or worser?
+
+*Virk is a bit sleepy.*
 
 Khamoraz: 
 
