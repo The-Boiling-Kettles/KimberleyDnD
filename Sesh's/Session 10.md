@@ -58,11 +58,11 @@ Auris [speaking to all of us]: Thank you for what you have done here. These are 
 
 On the ground are two leather satchels (one green, one grey), some kind of a knife set and a vial on a chain containing ash.
 
-Geoffrey knows what can be used to empower magically casters. The ash seems to be a vial that would be described by the church as a vessel which spellcasters could put their magic into.
+Geoffrey knows what can be used to empower magically casters. The ash vial would be described by the church as a vessel which spellcasters could release their magic into and use as a spellcasting focus.
 
-Khamoraz recognises it as a vial for blood. A spellcaster could put their blood in it (their essence).
+Khamoraz recognises it as a vial for blood. Within which a spellcaster could place their blood, allowing them to cast through it.
 
-Blood well vial. Azaia is given this.
+This is known as a Blood well vial. Azaia is given this.
 
 The green pouch is very light. As Fenwick loosens the tether, he sees 5 red berries. Fenwick knows that druids can conjure good berries that can satiate a person for a whole day.
 
