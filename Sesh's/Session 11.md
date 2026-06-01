@@ -156,3 +156,29 @@ Brodie:
 Barman:
 
 Brodie uses up another quarter of the can of grease.
+
+*Barman looks towards half-elf.*
+
+Barman: What is that?
+
+Barman: Uh, sir, we don't allow pets. Especially not ones of this size. Can you get it off, please.
+
+Brodie:
+
+Barman: Okay, well, unfortunately, your friend is a cursed elk. What was the plan once you get inside?
+
+Brodie: To get some drinks, of course. Why else would you go in a tavern.
+
+Barman:
+
+Brodie:
+
+Barman:
+
+Brodie: Okay, that is fine by me. I have a plan.
+
+Barman: Okay, I will give you 10 minutes.
+
+Brodie's plan:
+- Push the elk fro
+
