@@ -24,7 +24,29 @@ Brodie: Yes, I do. Do that right now. I dare you. I will pay you.
 
 Virk: I will come over and touch you then. You want to know how you feel like? You feel a bit soft to touch.
 
-Brodie: 
+Brodie: Keep feeling.
+
+Virk: You just feel soft. So do you just want me to see as soft and nothing else for the rest of time?
+
+Brodie: Yes, that is acceptable. Can I touch you know?
+
+Virk: You want to touch me?
+
+Brodie: Can you take off your armour, it's kind of in the way.
+
+Virk: Okay, I will take off my armour.
+
+*Virk takes his armour off and it falls to the ground, allowing Brodie to get a good feel of Virk's chest.*
+
+Brodie: I put you in the same tier as the creature. Your chest is quite hairy too.
+
+Virk: So are me and the creature the same thing or are we different?
+
+Brodie: Your different but I view you the same.
+
+Virk: So we are different factually but your view on us is exactly the same?
+
+Brodie: Yeah, so your not quite friend or special friend tier, your more like pet tier.
 
 Virk touches Brodie up. Brodie feels soft to touch.
 
