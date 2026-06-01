@@ -191,5 +191,27 @@ Half-elf:
 
 Brodie: Fine, I'll just go buy some booze.
 
+Brodie notices the beginnings of a tattoo on the half-elf's arm. There is a claw shape on his arm.
 
+Half-elf:
+
+Brodie:
+
+Half-elf:
+
+Brodie: The fanciest drink you have, please.
+
+Half-elf:
+
+Virk comes over to the 
+
+Virk:
+
+Half-elf:
+
+Virk:
+
+Half-elf:
+
+Virk cares about doors. Doorways must be kept in goo condition.
 
