@@ -103,6 +103,14 @@ Double 3 silver
 
 Bunking with four is about 5 silver
 
+Barman: Good evening, what can I get for you?
 
+Geoffrey: Nothing to drink. Would you be able to direct me towards the guards barracks?
+
+Barman: Yeah, its just in the centre, slightly north west of the centre. You truly can't miss it, it has banners and everything. You can also ask any of the guards and they'll be able to direct you. 
 
 Geoffrey:
+
+As Geoffrey is leaving, he notices 3 people by the corner of the bar that are trying to hide that they are watching him.
+
+Brodie finds an entrance to the cellar round the side of the inn. Brodie open
